@@ -6,7 +6,7 @@ module mips (
 
 // instruction_block
 wire [31:0] instruction;
-wire [31:0] pc;
+reg [31:0] pc=0;
 
 // register_block
 wire [31:0] read_data1;
@@ -24,7 +24,6 @@ wire       memRead;
 wire       memWrite;
 wire [2:0] ALUop;
 wire       ALUsrc;
-wire       regWrite;
 wire [5:0] opcode;
 
 // sign-extend
@@ -36,19 +35,14 @@ wire [31:0] alu_result;
 wire        zero_bit;
 wire [31:0] alu_src1;
 wire [31:0] alu_src2;
-wire [2:0]  alu_ctr;
 
 // alu control
 wire [2:0] alu_ctr;
 wire [5:0] function_code;
-wire [2:0] ALUop;
 
 // memory block
 wire [31:0] read_data;
 wire [17:0] address;
-wire [31:0] write_data;
-wire        memRead;
-wire        memWrite;
 
 
 // Logic Blocks
@@ -58,10 +52,14 @@ wire        memWrite;
 // 2- Shift left Sign extended immed value and add PC
 // 3- Selection logic that connects to PC register
 //    based on Branch bit and Zero bit outputs
+always @(clock) begin
+    pc <= pc + 4;
+end
 
 instruction_block inst_block_i(instruction, pc);
 
 // TODO Slice instruction logic
+assign opcode = instruction[31:26];
 
 // TODO Write register logic
 

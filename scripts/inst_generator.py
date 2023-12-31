@@ -126,7 +126,7 @@ class JTypeInstruction(MIPSInstruction):
 
     def randomize(self):
         self.opcode = random.choice(list(JTypeOpcodes))
-        self.address = random.randrange(0, pow(2, 27)-1)
+        self.address = random.randrange(0, pow(2, 26)-1)
         return self
 
 class InstructionGenerator():
@@ -136,16 +136,21 @@ class InstructionGenerator():
         self.instructions = []
 
     def add(self, inst: MIPSInstruction) -> None:
-        self.instructions = self.instructions + inst
+        self.instructions.append(inst)
 
     def randomize(self, limit: int=100):
         self.n_inst = random.randrange(1, limit)
         self.generate()
 
     def generate(self):
+        # TODO Generate randomly
         for i in range(self.n_inst):
-            # TODO Generate randomly
-            self.add(RTypeInstruction)
+            if i % 3 == 0:
+                self.add(RTypeInstruction("RType").randomize())
+            elif i % 3 == 1:
+                self.add(ITypeInstruction("IType").randomize())
+            elif i % 3 == 2:
+                self.add(JTypeInstruction("JType").randomize())
 
 
 if __name__ == "__main__":
@@ -156,7 +161,10 @@ if __name__ == "__main__":
 
     instructions = [r_inst, i_inst, j_inst]
 
+    generator = InstructionGenerator(1024)
+    generator.generate()
+
     with open("instructions.mem", 'w') as file:
-        for inst in instructions:
-            print(inst)
+        for inst in generator.instructions:
+            #print(inst)
             file.write(inst.serialize() + '\n')

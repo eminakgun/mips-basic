@@ -14,5 +14,9 @@ $(TARGETS):
 	$(IVLOG) $(TB_DIR)/$@.v
 	vvp build/$@.vvp
 	
+gen_inst:
+	python3 scripts/inst_generator.py
+	mv instructions.mem ./memory_files
+
 clean:
 	rm -rf *.vcd *.vvp build/*
