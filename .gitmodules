@@ -1,0 +1,4 @@
+[submodule "verilog/mips-alu"]
+	path = verilog/mips-alu
+	url = https://github.com/eminakgun/mips-alu.git
+	branch = master
