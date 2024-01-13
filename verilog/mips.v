@@ -12,9 +12,9 @@ reg [31:0] pc=0;
 wire [31:0] read_data1;
 wire [31:0] read_data2;
 wire [31:0] write_data;
-wire [5:0] read_reg1;
-wire [5:0] read_reg2;
-wire [5:0] write_reg;
+wire [4:0] read_reg1;
+wire [4:0] read_reg2;
+wire [4:0] write_reg;
 wire regWrite;
 
 // control_unit
