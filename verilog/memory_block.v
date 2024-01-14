@@ -8,13 +8,13 @@ module memory_block (
     
 reg [31:0] mem[0:65535]; // 256KB
 
-always @(address) begin
+always @(address, memRead, memWrite, write_data) begin
     if (memRead) begin
         $readmemb("memory_files/memory.mem", mem);
-        read_data = mem[address];
+        read_data = mem[address[17:2]];
     end
     else if (memWrite) begin
-        mem[address] = write_data;
+        mem[address[17:2]] = write_data;
         $writememb("memory_files/memory.mem", mem);
     end
 end
@@ -28,7 +28,9 @@ initial begin
     
     // Populate the file with 65536 32-bit zero-initialized binary numbers
     for (i = 0; i < 65536; i = i + 1) begin
-        $fwrite(file, "%032b\n", 0);
+        //$fwrite(file, "%032b\n", 0);
+        $fwrite(file, "%032b\n", $random); // initialize random data
+        mem[i] = 0;
     end
     
     // Close the file

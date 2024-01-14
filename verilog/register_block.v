@@ -20,9 +20,11 @@ always @(read_reg2) begin
     read_data2 = registers[read_reg2];
 end
 
-always @(regWrite) begin
-    registers[write_reg] = write_data;
-    $writememb("memory_files/registers.mem", registers);
+always @(regWrite, write_reg, write_data) begin
+    if (regWrite) begin
+        registers[write_reg] = write_data;
+        $writememb("memory_files/registers.mem", registers);
+    end
 end
 
 
@@ -35,7 +37,8 @@ initial begin
     
     // Populate the file with 32 32-bit zero-initialized binary numbers
     for (i = 0; i < 32; i = i + 1) begin
-        $fwrite(file, "%032b\n", 0);
+        $fwrite(file, "%032b\n", $random);
+        //$fwrite(file, "%032b\n", 0); // TODO Uncomment
     end
     
     // Close the file
