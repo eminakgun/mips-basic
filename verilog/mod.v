@@ -8,7 +8,6 @@ module mod(input  Clk,
            output [31:0] Mod_Result,
            output We);
 
-    wire [31:0] Dp_Result_reg;
     reg Done;
 
     mod_cu cu_inst(Clk, Reset, En, A, B, Sub_Result, 
