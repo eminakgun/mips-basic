@@ -18,11 +18,13 @@ module alu_cla(input Clk,
     wire [31:0]  NOR;
     wire        Less;
 
+    wire Cin;
+    wire Sub_En;
+
     // CLA-32 instantiation
     cla_32 cla_32_inst(A_in, B_in, Cin, Cout, Sum, AND, OR, XOR, NOR);
     
     // Cin selection
-    wire Cin;
     buf Cin_buf(Cin, Sub_En); // basically same as Sub_En
 
     // Instruction detection for Sub and Less
