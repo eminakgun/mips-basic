@@ -37,7 +37,9 @@ always @(opcode) begin
     memWrite = 1'b0;
     case (opcode)
         6'b100000: begin // Move
-        // TODO
+            // TODO
+            regDst   = 1'b0; // Select Rt as write register
+            regWrite = 1'b1;
         end
         6'b000000: begin // R-type
             regWrite = 1'b1;    // Write enable register block

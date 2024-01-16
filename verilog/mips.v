@@ -44,6 +44,8 @@ wire [5:0] function_code;
 wire [31:0] read_data_mem;
 wire [17:0] address;
 
+wire move;
+assign move = (opcode == 6'b100000);
 
 // Logic Blocks
 
@@ -142,8 +144,10 @@ alu_control alu_ctrl_i(alu_ctr, function_code, ALUop);
 // write_data = read_data2;
 memory_block mem_block_i(read_data_mem, alu_result[17:0], read_data2, memRead, memWrite);
 
-// TODO Selection logic for write back register_block
-assign write_data = jal == 1'b1 ? pc_plus_4 : memRead == 1'b1 ? read_data_mem
-                                                              : alu_result;
+
+assign write_data = move ? read_data1 
+                         : jal == 1'b1 ? pc_plus_4 
+                                       : memRead == 1'b1 ? read_data_mem
+                                                         : alu_result;
 
 endmodule
