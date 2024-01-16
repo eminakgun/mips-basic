@@ -8,12 +8,12 @@ module tb_mips ();
 
     integer inst_cnt;
     initial begin
-        $dumpfile("build/tb_mips.vcd");
-        $dumpvars(0);
+        //$dumpfile("build/tb_mips.vcd");
+        //$dumpvars(0);
 
         //#100;
 
-        for (inst_cnt= 0; inst_cnt <= 1024; ++inst_cnt) begin
+        for (inst_cnt= 0; inst_cnt <= 1024; inst_cnt = inst_cnt + 1) begin
             //$display("inst: %0d", inst_cnt);
             @(posedge clk);
         end
