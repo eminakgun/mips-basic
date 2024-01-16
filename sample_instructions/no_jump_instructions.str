@@ -1,0 +1,1366 @@
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111110011011000000001000
+Rs: 15, Rt: 25, Rd: 22, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100001011010101101001110100
+Rs: 1, Rt: 13, Immed: 23156
+RType : Type: RTypeOpcode: 0, Machine code: 00000011010001010011100000000010
+Rs: 26, Rt: 5, Rd: 7, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110100101000100111010010110
+Rs: 20, Rt: 20, Immed: 20118
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000110111010000000001000
+Rs: 16, Rt: 27, Rd: 20, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100010110010011110100101001
+Rs: 2, Rt: 25, Immed: 15657
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110001100101100000000111
+Rs: 30, Rt: 6, Rd: 11, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011010011111010100110000101
+Rs: 26, Rt: 15, Immed: 43397
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001010001100100000000100
+Rs: 25, Rt: 8, Rd: 25, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010000100000001101110001001
+Rs: 16, Rt: 16, Immed: 7049
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001001010100000000000011
+Rs: 17, Rt: 5, Rd: 8, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001100000001111100000011110
+Rs: 12, Rt: 0, Immed: 63518
+RType : Type: RTypeOpcode: 0, Machine code: 00000011101010010100000000000101
+Rs: 29, Rt: 9, Rd: 8, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100000001011101011100111011
+Rs: 0, Rt: 5, Immed: 55099
+RType : Type: RTypeOpcode: 0, Machine code: 00000011010001111010000000001000
+Rs: 26, Rt: 7, Rd: 20, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110100111101100001110101110
+Rs: 20, Rt: 30, Immed: 50094
+RType : Type: RTypeOpcode: 0, Machine code: 00000010111100110000000000000010
+Rs: 23, Rt: 19, Rd: 0, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000010111101111101101001101
+Rs: 2, Rt: 30, Immed: 64333
+RType : Type: RTypeOpcode: 0, Machine code: 00000001100100000000100000000011
+Rs: 12, Rt: 16, Rd: 1, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011011001110111100101001100
+Rs: 27, Rt: 7, Immed: 31052
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110010011110100000000100
+Rs: 30, Rt: 9, Rd: 29, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011100100101001100000011001
+Rs: 28, Rt: 18, Immed: 38937
+RType : Type: RTypeOpcode: 0, Machine code: 00000010101100000010000000000111
+Rs: 21, Rt: 16, Rd: 4, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111001111001111101111000001
+Rs: 25, Rt: 28, Immed: 64449
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110011000010100000000101
+Rs: 30, Rt: 12, Rd: 5, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011010010111100010001001110
+Rs: 26, Rt: 11, Immed: 50254
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111010100111000000100000
+Rs: 15, Rt: 10, Rd: 14, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101110011011101111000101001
+Rs: 14, Rt: 13, Immed: 56873
+RType : Type: RTypeOpcode: 0, Machine code: 00000000100110111000100000000111
+Rs: 4, Rt: 27, Rd: 17, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101011001101000010011001101
+Rs: 11, Rt: 6, Immed: 33997
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000000111011000000000101
+Rs: 24, Rt: 3, Rd: 22, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101001000011010101100001110
+Rs: 9, Rt: 1, Immed: 43790
+RType : Type: RTypeOpcode: 0, Machine code: 00000001000110010100000000000011
+Rs: 8, Rt: 25, Rd: 8, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011111011111100001110110100
+Rs: 31, Rt: 15, Immed: 50100
+RType : Type: RTypeOpcode: 0, Machine code: 00000000011001110000000000000011
+Rs: 3, Rt: 7, Rd: 0, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000101100110101010010011110
+Rs: 5, Rt: 19, Immed: 21662
+RType : Type: RTypeOpcode: 0, Machine code: 00000000000010100100100000000101
+Rs: 0, Rt: 10, Rd: 9, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011011000001100001101110110
+Rs: 27, Rt: 0, Immed: 50038
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000101011011000000100000
+Rs: 24, Rt: 21, Rd: 22, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001110001011101111111011111
+Rs: 14, Rt: 5, Immed: 57311
+RType : Type: RTypeOpcode: 0, Machine code: 00000000110111110100100000000011
+Rs: 6, Rt: 31, Rd: 9, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100110110101001011101110011
+Rs: 6, Rt: 26, Immed: 38771
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111000011001100000000011
+Rs: 15, Rt: 1, Rd: 19, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011000101011100111010011000
+Rs: 24, Rt: 21, Immed: 52888
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111111010010000000000011
+Rs: 15, Rt: 29, Rd: 4, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110011101011100110101100001
+Rs: 19, Rt: 21, Immed: 52577
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001010001110000000100000
+Rs: 17, Rt: 8, Rd: 28, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110011110111000111100100100
+Rs: 19, Rt: 27, Immed: 36644
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110001100100000000000100
+Rs: 30, Rt: 6, Rd: 8, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111001001110000011111100100
+Rs: 25, Rt: 7, Immed: 2020
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000011101001100000100000
+Rs: 16, Rt: 14, Rd: 19, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011101011010000110111101101
+Rs: 29, Rt: 13, Immed: 3565
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001110010110000000100000
+Rs: 17, Rt: 25, Rd: 12, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000011101010010010110001001
+Rs: 3, Rt: 21, Immed: 9609
+RType : Type: RTypeOpcode: 0, Machine code: 00000000101110001110000000000101
+Rs: 5, Rt: 24, Rd: 28, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110000001110101111010100001
+Rs: 16, Rt: 7, Immed: 24225
+RType : Type: RTypeOpcode: 0, Machine code: 00000000100111010101100000000111
+Rs: 4, Rt: 29, Rd: 11, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111101111000100010101101010
+Rs: 29, Rt: 28, Immed: 17770
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001101011110000000000011
+Rs: 25, Rt: 21, Rd: 28, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000010110001010100100101100
+Rs: 2, Rt: 24, Immed: 43308
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011111110111000000001000
+Rs: 11, Rt: 31, Rd: 14, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001011000011100011100110010
+Rs: 11, Rt: 1, Immed: 50994
+RType : Type: RTypeOpcode: 0, Machine code: 00000000101010001000100000100000
+Rs: 5, Rt: 8, Rd: 17, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011011110011011001101101100
+Rs: 27, Rt: 25, Immed: 45932
+RType : Type: RTypeOpcode: 0, Machine code: 00000000101100100000000000100000
+Rs: 5, Rt: 18, Rd: 0, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111011100111000011000001100
+Rs: 27, Rt: 19, Immed: 34316
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000000011110000000001000
+Rs: 24, Rt: 1, Rd: 28, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001110010101111101010100001
+Rs: 14, Rt: 10, Immed: 64161
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001110010101100000000101
+Rs: 17, Rt: 25, Rd: 11, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110001101001000010000000110
+Rs: 17, Rt: 20, Immed: 33798
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110100110111000000000011
+Rs: 30, Rt: 19, Rd: 14, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101110000000001001010010111
+Rs: 14, Rt: 0, Immed: 4759
+RType : Type: RTypeOpcode: 0, Machine code: 00000000110101111011100000000100
+Rs: 6, Rt: 23, Rd: 23, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001111000101011010110111101
+Rs: 15, Rt: 2, Immed: 46525
+RType : Type: RTypeOpcode: 0, Machine code: 00000000001100100001100000000101
+Rs: 1, Rt: 18, Rd: 3, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010100100101011101000101101
+Rs: 20, Rt: 18, Immed: 47661
+RType : Type: RTypeOpcode: 0, Machine code: 00000000001110101010000000001000
+Rs: 1, Rt: 26, Rd: 20, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110000110110100011100010110
+Rs: 16, Rt: 27, Immed: 18198
+RType : Type: RTypeOpcode: 0, Machine code: 00000010111001011100100000000011
+Rs: 23, Rt: 5, Rd: 25, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111000110110011101010010010
+Rs: 24, Rt: 27, Immed: 14994
+RType : Type: RTypeOpcode: 0, Machine code: 00000010100010010010000000000100
+Rs: 20, Rt: 9, Rd: 4, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010101010001011000101100101
+Rs: 21, Rt: 8, Immed: 45413
+RType : Type: RTypeOpcode: 0, Machine code: 00000011010010100010100000000011
+Rs: 26, Rt: 10, Rd: 5, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100101110010101001100001110
+Rs: 5, Rt: 25, Immed: 21262
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001011111000000000000101
+Rs: 25, Rt: 15, Rd: 16, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101001111010111011100111100
+Rs: 9, Rt: 29, Immed: 30524
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010101001001000000000101
+Rs: 2, Rt: 20, Rd: 18, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001101110010000001000011011
+Rs: 13, Rt: 25, Immed: 539
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110010000100000000000010
+Rs: 22, Rt: 8, Rd: 8, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011101110101001111001100011
+Rs: 29, Rt: 26, Immed: 40547
+RType : Type: RTypeOpcode: 0, Machine code: 00000010101111001010100000100000
+Rs: 21, Rt: 28, Rd: 21, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001110111110001010011011101
+Rs: 14, Rt: 31, Immed: 5341
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011010101001000000000101
+Rs: 27, Rt: 10, Rd: 18, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100111101100010111001011110
+Rs: 7, Rt: 22, Immed: 11870
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100011111001100000100000
+Rs: 28, Rt: 15, Rd: 19, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110100100011110001101101000
+Rs: 20, Rt: 17, Immed: 58216
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011000001000000000000111
+Rs: 27, Rt: 0, Rd: 16, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100111101000100111111010110
+Rs: 7, Rt: 20, Immed: 20438
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001100011010000000000010
+Rs: 17, Rt: 17, Rd: 20, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100100100011001000101011011
+Rs: 4, Rt: 17, Immed: 37211
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100110111101100000000101
+Rs: 28, Rt: 27, Rd: 27, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010110110100110011001000011
+Rs: 22, Rt: 26, Immed: 26179
+RType : Type: RTypeOpcode: 0, Machine code: 00000001001011011011000000001000
+Rs: 9, Rt: 13, Rd: 22, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110001000000011011111101011
+Rs: 17, Rt: 0, Immed: 14315
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011110000011000000100000
+Rs: 11, Rt: 24, Rd: 6, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000000011100000010011000001
+Rs: 0, Rt: 14, Immed: 1217
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110011001010100000000010
+Rs: 30, Rt: 12, Rd: 21, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110001010001110111110001011
+Rs: 17, Rt: 8, Immed: 61323
+RType : Type: RTypeOpcode: 0, Machine code: 00000000000101110011100000000011
+Rs: 0, Rt: 23, Rd: 7, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010001000110111101110111101
+Rs: 17, Rt: 3, Immed: 31677
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010101000011100000000010
+Rs: 2, Rt: 20, Rd: 7, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010111111100000101100001011
+Rs: 23, Rt: 30, Immed: 2827
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000110110110000000000011
+Rs: 16, Rt: 27, Rd: 12, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100111110111001100000011000
+Rs: 7, Rt: 27, Immed: 38936
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011011101101100000000100
+Rs: 11, Rt: 14, Rd: 27, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101100011100011001110110110
+Rs: 12, Rt: 14, Immed: 13238
+RType : Type: RTypeOpcode: 0, Machine code: 00000011010000101010000000000010
+Rs: 26, Rt: 2, Rd: 20, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101000001010101110111011111
+Rs: 8, Rt: 5, Immed: 24031
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011101101111100000000101
+Rs: 11, Rt: 22, Rd: 31, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110100011000101001001011111
+Rs: 20, Rt: 12, Immed: 21087
+RType : Type: RTypeOpcode: 0, Machine code: 00000001101000011000000000001000
+Rs: 13, Rt: 1, Rd: 16, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100100111111100110101110101
+Rs: 4, Rt: 31, Immed: 52597
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001100010000100000000011
+Rs: 25, Rt: 17, Rd: 1, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010101101110001111010101111
+Rs: 21, Rt: 23, Immed: 7855
+RType : Type: RTypeOpcode: 0, Machine code: 00000011010000111011100000100000
+Rs: 26, Rt: 3, Rd: 23, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110011001001110010111110110
+Rs: 19, Rt: 4, Immed: 58870
+RType : Type: RTypeOpcode: 0, Machine code: 00000010111011000101100000001000
+Rs: 23, Rt: 12, Rd: 11, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110000011000101010101011010
+Rs: 16, Rt: 12, Immed: 21850
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011110110111000000000100
+Rs: 27, Rt: 27, Rd: 14, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101110011111111101111111110
+Rs: 14, Rt: 15, Immed: 64510
+RType : Type: RTypeOpcode: 0, Machine code: 00000000111011100011100000000111
+Rs: 7, Rt: 14, Rd: 7, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100000101101001101001101011
+Rs: 0, Rt: 22, Immed: 39531
+RType : Type: RTypeOpcode: 0, Machine code: 00000001010011011101100000001000
+Rs: 10, Rt: 13, Rd: 27, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011010100111101110011101111
+Rs: 26, Rt: 19, Immed: 56559
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011001110001100000000100
+Rs: 11, Rt: 7, Rd: 3, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001111101101110011111010011
+Rs: 15, Rt: 22, Immed: 59347
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111010100110000000001000
+Rs: 15, Rt: 10, Rd: 12, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000011101111100100101100010
+Rs: 3, Rt: 23, Immed: 51554
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100100011110100000000101
+Rs: 28, Rt: 17, Rd: 29, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101101000000011111011100110
+Rs: 13, Rt: 0, Immed: 16102
+RType : Type: RTypeOpcode: 0, Machine code: 00000000111101001100000000000100
+Rs: 7, Rt: 20, Rd: 24, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001000111010111110001000111
+Rs: 8, Rt: 29, Immed: 31815
+RType : Type: RTypeOpcode: 0, Machine code: 00000011101000110101100000000100
+Rs: 29, Rt: 3, Rd: 11, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110101001011010110000010110
+Rs: 21, Rt: 5, Immed: 44054
+RType : Type: RTypeOpcode: 0, Machine code: 00000000111110000110000000001000
+Rs: 7, Rt: 24, Rd: 12, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101001111111101000010111000
+Rs: 9, Rt: 31, Immed: 53432
+RType : Type: RTypeOpcode: 0, Machine code: 00000000100101000101000000000010
+Rs: 4, Rt: 20, Rd: 10, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001111011101000001110111101
+Rs: 15, Rt: 14, Immed: 33725
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000000110100100000001000
+Rs: 16, Rt: 3, Rd: 9, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000101011111011000110010101
+Rs: 5, Rt: 15, Immed: 45461
+RType : Type: RTypeOpcode: 0, Machine code: 00000010111010000101100000000010
+Rs: 23, Rt: 8, Rd: 11, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110001000001100000001110111
+Rs: 17, Rt: 0, Immed: 49271
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110010101111000000000011
+Rs: 22, Rt: 10, Rd: 30, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011101010110011100011111110
+Rs: 29, Rt: 11, Immed: 14590
+RType : Type: RTypeOpcode: 0, Machine code: 00000001000001111011100000000111
+Rs: 8, Rt: 7, Rd: 23, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110001000011110100111010111
+Rs: 17, Rt: 1, Immed: 59863
+RType : Type: RTypeOpcode: 0, Machine code: 00000000110000011100100000000101
+Rs: 6, Rt: 1, Rd: 25, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011101001001011011000001101
+Rs: 29, Rt: 4, Immed: 46605
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110110001000000000001000
+Rs: 22, Rt: 24, Rd: 16, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000000001000101010011101110
+Rs: 0, Rt: 4, Immed: 21742
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011000000000000000001000
+Rs: 27, Rt: 0, Rd: 0, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100111000101111001010101100
+Rs: 7, Rt: 2, Immed: 62124
+RType : Type: RTypeOpcode: 0, Machine code: 00000011111101101101000000000100
+Rs: 31, Rt: 22, Rd: 26, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000000101110010010001100111
+Rs: 0, Rt: 23, Immed: 9319
+RType : Type: RTypeOpcode: 0, Machine code: 00000011010001000011000000000100
+Rs: 26, Rt: 4, Rd: 6, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001101011111011101011010011
+Rs: 13, Rt: 15, Immed: 47827
+RType : Type: RTypeOpcode: 0, Machine code: 00000010010101010001000000001000
+Rs: 18, Rt: 21, Rd: 2, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100010001111001111110010011
+Rs: 2, Rt: 7, Immed: 40851
+RType : Type: RTypeOpcode: 0, Machine code: 00000010101011010001100000100000
+Rs: 21, Rt: 13, Rd: 3, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001001010100011001110100111
+Rs: 9, Rt: 10, Immed: 13223
+RType : Type: RTypeOpcode: 0, Machine code: 00000000111001000000100000000011
+Rs: 7, Rt: 4, Rd: 1, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100110111101010010010100101
+Rs: 6, Rt: 30, Immed: 42149
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110101101101000000100000
+Rs: 30, Rt: 22, Rd: 26, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110100111111100111100011111
+Rs: 20, Rt: 31, Immed: 53023
+RType : Type: RTypeOpcode: 0, Machine code: 00000001110001100010100000000101
+Rs: 14, Rt: 6, Rd: 5, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110000011101000101110001011
+Rs: 16, Rt: 14, Immed: 35723
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000011001010000000000101
+Rs: 24, Rt: 12, Rd: 20, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011011000100111101010110111
+Rs: 27, Rt: 2, Immed: 31415
+RType : Type: RTypeOpcode: 0, Machine code: 00000001110001010110000000000111
+Rs: 14, Rt: 5, Rd: 12, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101000000101011010110110100
+Rs: 8, Rt: 2, Immed: 46516
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000111000111100000000111
+Rs: 16, Rt: 28, Rd: 15, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110011010001001111001110001
+Rs: 19, Rt: 8, Immed: 40561
+RType : Type: RTypeOpcode: 0, Machine code: 00000011101111000000000000000111
+Rs: 29, Rt: 28, Rd: 0, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010110111110101001100000100
+Rs: 22, Rt: 31, Immed: 21252
+RType : Type: RTypeOpcode: 0, Machine code: 00000001110101100100000000000100
+Rs: 14, Rt: 22, Rd: 8, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001110001010110110000111101
+Rs: 14, Rt: 5, Immed: 27709
+RType : Type: RTypeOpcode: 0, Machine code: 00000010101010101001000000100000
+Rs: 21, Rt: 10, Rd: 18, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111011000101011011000010110
+Rs: 27, Rt: 2, Immed: 46614
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100001100110100000001000
+Rs: 28, Rt: 6, Rd: 13, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001010111010011000001001101
+Rs: 10, Rt: 29, Immed: 12365
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010000011001000000100000
+Rs: 2, Rt: 1, Rd: 18, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110110000111101001011001011
+Rs: 22, Rt: 3, Immed: 53963
+RType : Type: RTypeOpcode: 0, Machine code: 00000011111101110111000000000011
+Rs: 31, Rt: 23, Rd: 14, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111100010110001111101100001
+Rs: 28, Rt: 11, Immed: 8033
+RType : Type: RTypeOpcode: 0, Machine code: 00000010101011100101100000000010
+Rs: 21, Rt: 14, Rd: 11, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001010001101111011010110000
+Rs: 10, Rt: 6, Immed: 63152
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011100110101100000000010
+Rs: 11, Rt: 19, Rd: 11, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101001000111000011100011010
+Rs: 9, Rt: 3, Immed: 34586
+RType : Type: RTypeOpcode: 0, Machine code: 00000000100100001001100000000100
+Rs: 4, Rt: 16, Rd: 19, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000101101000101010010011100
+Rs: 5, Rt: 20, Immed: 21660
+RType : Type: RTypeOpcode: 0, Machine code: 00000010100010000100000000100000
+Rs: 20, Rt: 8, Rd: 8, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001000100100110100110010101
+Rs: 8, Rt: 18, Immed: 27029
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011110110110000000000111
+Rs: 11, Rt: 27, Rd: 12, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110100101111110101101101110
+Rs: 20, Rt: 23, Immed: 60270
+RType : Type: RTypeOpcode: 0, Machine code: 00000000101101010111100000000010
+Rs: 5, Rt: 21, Rd: 15, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000110010010100000100101010
+Rs: 6, Rt: 9, Immed: 16682
+RType : Type: RTypeOpcode: 0, Machine code: 00000000011101000010000000000101
+Rs: 3, Rt: 20, Rd: 4, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001110000110000011010101110
+Rs: 14, Rt: 3, Immed: 1710
+RType : Type: RTypeOpcode: 0, Machine code: 00000001110110000100100000000100
+Rs: 14, Rt: 24, Rd: 9, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001000001110001001111110001
+Rs: 8, Rt: 7, Immed: 5105
+RType : Type: RTypeOpcode: 0, Machine code: 00000001001001000001000000100000
+Rs: 9, Rt: 4, Rd: 2, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000000011111110001100101111
+Rs: 0, Rt: 15, Immed: 58159
+RType : Type: RTypeOpcode: 0, Machine code: 00000001101010010000100000000101
+Rs: 13, Rt: 9, Rd: 1, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101110100100000101110001111
+Rs: 14, Rt: 18, Immed: 2959
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011000111000000000000100
+Rs: 11, Rt: 3, Rd: 16, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101101000111110101100001001
+Rs: 13, Rt: 3, Immed: 60169
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110000001110000000001000
+Rs: 30, Rt: 0, Rd: 28, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110000001110111110000101011
+Rs: 16, Rt: 7, Immed: 31787
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001001101110100000000010
+Rs: 17, Rt: 6, Rd: 29, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101100110011011100111110111
+Rs: 12, Rt: 25, Immed: 47607
+RType : Type: RTypeOpcode: 0, Machine code: 00000001000100100101100000000111
+Rs: 8, Rt: 18, Rd: 11, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111111011010010110100111100
+Rs: 31, Rt: 13, Immed: 11580
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000000011001100000100000
+Rs: 24, Rt: 1, Rd: 19, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101100011011010100111011010
+Rs: 12, Rt: 13, Immed: 43482
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100111110001000000000100
+Rs: 28, Rt: 31, Rd: 2, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001111010110110111101101011
+Rs: 15, Rt: 11, Immed: 28523
+RType : Type: RTypeOpcode: 0, Machine code: 00000001000011011110100000001000
+Rs: 8, Rt: 13, Rd: 29, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101001000100110110011110001
+Rs: 9, Rt: 2, Immed: 27889
+RType : Type: RTypeOpcode: 0, Machine code: 00000011010101110010100000000100
+Rs: 26, Rt: 23, Rd: 5, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001101000101111011010110001
+Rs: 13, Rt: 2, Immed: 63153
+RType : Type: RTypeOpcode: 0, Machine code: 00000000100001001011000000000100
+Rs: 4, Rt: 4, Rd: 22, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110111101010000101111111011
+Rs: 23, Rt: 21, Immed: 3067
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000011001000100000000111
+Rs: 24, Rt: 12, Rd: 17, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010000100100101001110000010
+Rs: 16, Rt: 18, Immed: 21378
+RType : Type: RTypeOpcode: 0, Machine code: 00000001000000101010100000001000
+Rs: 8, Rt: 2, Rd: 21, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100111111101101111011110110
+Rs: 7, Rt: 30, Immed: 57078
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110101000101000000000100
+Rs: 30, Rt: 20, Rd: 10, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001100110110100011101001101
+Rs: 12, Rt: 27, Immed: 18253
+RType : Type: RTypeOpcode: 0, Machine code: 00000001000111001001000000000011
+Rs: 8, Rt: 28, Rd: 18, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101011100001011011100111011
+Rs: 11, Rt: 16, Immed: 46907
+RType : Type: RTypeOpcode: 0, Machine code: 00000000100101111011000000001000
+Rs: 4, Rt: 23, Rd: 22, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101101100110011100110100001
+Rs: 13, Rt: 19, Immed: 14753
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000001101100000000000101
+Rs: 16, Rt: 6, Rd: 24, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101100110101111100011001011
+Rs: 12, Rt: 26, Immed: 63691
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011100000100100000000111
+Rs: 27, Rt: 16, Rd: 9, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010001001001110001111010100
+Rs: 17, Rt: 4, Immed: 58324
+RType : Type: RTypeOpcode: 0, Machine code: 00000000110100010111000000000010
+Rs: 6, Rt: 17, Rd: 14, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000001010000100110011000011
+Rs: 1, Rt: 8, Immed: 19651
+RType : Type: RTypeOpcode: 0, Machine code: 00000001100101100001000000001000
+Rs: 12, Rt: 22, Rd: 2, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101111011001111101000010101
+Rs: 15, Rt: 12, Immed: 64021
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001010000000100000000111
+Rs: 17, Rt: 8, Rd: 1, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101100010000111100011101110
+Rs: 12, Rt: 8, Immed: 30958
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000011111011100000000111
+Rs: 24, Rt: 15, Rd: 23, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011000100011110100111100001
+Rs: 24, Rt: 17, Immed: 59873
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011011001001000000001000
+Rs: 27, Rt: 12, Rd: 18, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101010111001010000011010111
+Rs: 10, Rt: 28, Immed: 41175
+RType : Type: RTypeOpcode: 0, Machine code: 00000000000110100001000000100000
+Rs: 0, Rt: 26, Rd: 2, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101100010011010101100100000
+Rs: 12, Rt: 9, Immed: 43808
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010011101000100000100000
+Rs: 2, Rt: 14, Rd: 17, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001101100111011010101101000
+Rs: 13, Rt: 19, Immed: 46440
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110101100011000000000010
+Rs: 22, Rt: 22, Rd: 6, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101010101010010001111000011
+Rs: 10, Rt: 21, Immed: 9155
+RType : Type: RTypeOpcode: 0, Machine code: 00000001100110100011000000000010
+Rs: 12, Rt: 26, Rd: 6, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100010110010010111100101100
+Rs: 2, Rt: 25, Immed: 12076
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000010000111000000000101
+Rs: 24, Rt: 8, Rd: 14, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100000111000100110100001101
+Rs: 0, Rt: 28, Immed: 19725
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110110101000000000000010
+Rs: 22, Rt: 26, Rd: 16, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010110111111011110100010001
+Rs: 22, Rt: 31, Immed: 48401
+RType : Type: RTypeOpcode: 0, Machine code: 00000010100110101110000000000010
+Rs: 20, Rt: 26, Rd: 28, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000110010110110011010100111
+Rs: 6, Rt: 11, Immed: 26279
+RType : Type: RTypeOpcode: 0, Machine code: 00000010010011110001000000001000
+Rs: 18, Rt: 15, Rd: 2, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110010100001100100110101110
+Rs: 18, Rt: 16, Immed: 51630
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100111010100100000000100
+Rs: 28, Rt: 29, Rd: 9, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111000011001100001001000001
+Rs: 24, Rt: 12, Immed: 49729
+RType : Type: RTypeOpcode: 0, Machine code: 00000001110000100001100000000111
+Rs: 14, Rt: 2, Rd: 3, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100010010110100000000011011
+Rs: 2, Rt: 11, Immed: 16411
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011010010101000000000010
+Rs: 27, Rt: 9, Rd: 10, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011100110110001100011011001
+Rs: 28, Rt: 27, Immed: 6361
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100101100101000000000010
+Rs: 28, Rt: 22, Rd: 10, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110010101010101010000011001
+Rs: 18, Rt: 21, Immed: 21529
+RType : Type: RTypeOpcode: 0, Machine code: 00000011111111001010100000000011
+Rs: 31, Rt: 28, Rd: 21, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000011101101011101111110000
+Rs: 3, Rt: 22, Immed: 48112
+RType : Type: RTypeOpcode: 0, Machine code: 00000000001010111110100000000010
+Rs: 1, Rt: 11, Rd: 29, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100010000001101110100101010
+Rs: 2, Rt: 0, Immed: 56618
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001000111110100000000101
+Rs: 17, Rt: 3, Rd: 29, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001110000111000001000000101
+Rs: 14, Rt: 3, Immed: 33285
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110011010010100000100000
+Rs: 30, Rt: 13, Rd: 5, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101111001110111111011101000
+Rs: 15, Rt: 7, Immed: 32488
+RType : Type: RTypeOpcode: 0, Machine code: 00000001001101111000100000100000
+Rs: 9, Rt: 23, Rd: 17, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110100010010110101100001010
+Rs: 20, Rt: 9, Immed: 27402
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110111001111000000100000
+Rs: 22, Rt: 28, Rd: 30, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101101110100101010000111101
+Rs: 13, Rt: 26, Immed: 21565
+RType : Type: RTypeOpcode: 0, Machine code: 00000000100000110001100000000111
+Rs: 4, Rt: 3, Rd: 3, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111100100111100001000100100
+Rs: 28, Rt: 19, Immed: 49700
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011011001010000000100000
+Rs: 11, Rt: 12, Rd: 20, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110010011101110001111000000
+Rs: 18, Rt: 14, Immed: 58304
+RType : Type: RTypeOpcode: 0, Machine code: 00000000011000001010000000001000
+Rs: 3, Rt: 0, Rd: 20, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100000010010100100100101010
+Rs: 0, Rt: 9, Immed: 18730
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111001010101000000100000
+Rs: 15, Rt: 5, Rd: 10, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100000100100111000001000010
+Rs: 0, Rt: 18, Immed: 28738
+RType : Type: RTypeOpcode: 0, Machine code: 00000000111101011111100000000010
+Rs: 7, Rt: 21, Rd: 31, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100100010100100100000000100
+Rs: 4, Rt: 10, Immed: 18436
+RType : Type: RTypeOpcode: 0, Machine code: 00000001101100001010000000100000
+Rs: 13, Rt: 16, Rd: 20, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001111111000001110001000111
+Rs: 15, Rt: 28, Immed: 7239
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010111000011100000000100
+Rs: 2, Rt: 28, Rd: 7, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100000110101011000100101000
+Rs: 0, Rt: 26, Immed: 45352
+RType : Type: RTypeOpcode: 0, Machine code: 00000010100010110010100000001000
+Rs: 20, Rt: 11, Rd: 5, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001100011000011001001110111
+Rs: 12, Rt: 12, Immed: 12919
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110001110101000000000100
+Rs: 22, Rt: 7, Rd: 10, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010101101100000110010100001
+Rs: 21, Rt: 22, Immed: 3233
+RType : Type: RTypeOpcode: 0, Machine code: 00000010010011000000000000000101
+Rs: 18, Rt: 12, Rd: 0, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001000001111000100000111101
+Rs: 8, Rt: 7, Immed: 34877
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100010001111000000100000
+Rs: 28, Rt: 8, Rd: 30, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111110001000110110011000111
+Rs: 30, Rt: 4, Immed: 27847
+RType : Type: RTypeOpcode: 0, Machine code: 00000010101101111100000000000100
+Rs: 21, Rt: 23, Rd: 24, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011000100001000100000100111
+Rs: 24, Rt: 16, Immed: 34855
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110111010100100000000100
+Rs: 22, Rt: 29, Rd: 9, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110010100111101001001010001
+Rs: 18, Rt: 19, Immed: 53841
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111001011001000000000100
+Rs: 15, Rt: 5, Rd: 18, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110011000110110000111000000
+Rs: 19, Rt: 3, Immed: 25024
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110101001111100000000100
+Rs: 30, Rt: 20, Rd: 31, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100001011100001011100101011
+Rs: 1, Rt: 14, Immed: 5931
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110001111011100000100000
+Rs: 22, Rt: 7, Rd: 23, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010010000001100000001100000
+Rs: 18, Rt: 0, Immed: 49248
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000101110111000000000101
+Rs: 24, Rt: 23, Rd: 14, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001001000000110000010100011
+Rs: 9, Rt: 0, Immed: 24739
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010111110100000000000101
+Rs: 2, Rt: 31, Rd: 8, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111010010110100110010001100
+Rs: 26, Rt: 11, Immed: 19596
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001110000110000000000101
+Rs: 25, Rt: 24, Rd: 12, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001011111011110110101110101
+Rs: 11, Rt: 29, Immed: 60789
+RType : Type: RTypeOpcode: 0, Machine code: 00000001101011011101100000000010
+Rs: 13, Rt: 13, Rd: 27, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101010111001111101100001011
+Rs: 10, Rt: 28, Immed: 64267
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011111110110000000000010
+Rs: 11, Rt: 31, Rd: 12, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100010110000110101001101000
+Rs: 2, Rt: 24, Immed: 27240
+RType : Type: RTypeOpcode: 0, Machine code: 00000000011101100111000000001000
+Rs: 3, Rt: 22, Rd: 14, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110110010110110011111111111
+Rs: 22, Rt: 11, Immed: 26623
+RType : Type: RTypeOpcode: 0, Machine code: 00000010011101100111100000000111
+Rs: 19, Rt: 22, Rd: 15, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000100011010000011010001100
+Rs: 4, Rt: 13, Immed: 1676
+RType : Type: RTypeOpcode: 0, Machine code: 00000001000010000110000000000010
+Rs: 8, Rt: 8, Rd: 12, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110000011000001110011100000
+Rs: 16, Rt: 12, Immed: 7392
+RType : Type: RTypeOpcode: 0, Machine code: 00000001000110010001000000000101
+Rs: 8, Rt: 25, Rd: 2, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011010000001001010011001100
+Rs: 26, Rt: 0, Immed: 38092
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100011010101100000000100
+Rs: 28, Rt: 13, Rd: 11, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101111010101111001010000100
+Rs: 15, Rt: 10, Immed: 62084
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110100011010100000100000
+Rs: 30, Rt: 17, Rd: 21, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110110011101101111000101000
+Rs: 22, Rt: 14, Immed: 56872
+RType : Type: RTypeOpcode: 0, Machine code: 00000001110101110101000000000101
+Rs: 14, Rt: 23, Rd: 10, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101101101001111101010110101
+Rs: 13, Rt: 20, Immed: 64181
+RType : Type: RTypeOpcode: 0, Machine code: 00000010100011010101000000001000
+Rs: 20, Rt: 13, Rd: 10, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101111011010000111001000000
+Rs: 15, Rt: 13, Immed: 3648
+RType : Type: RTypeOpcode: 0, Machine code: 00000001010001000010000000000011
+Rs: 10, Rt: 4, Rd: 4, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100100101101000001111011111
+Rs: 4, Rt: 22, Immed: 33759
+RType : Type: RTypeOpcode: 0, Machine code: 00000010111000101110100000000011
+Rs: 23, Rt: 2, Rd: 29, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001110100101100100110010101
+Rs: 14, Rt: 18, Immed: 51605
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111111010111000000000111
+Rs: 15, Rt: 29, Rd: 14, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100011110010110100001111000
+Rs: 3, Rt: 25, Immed: 26744
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100100010010000000001000
+Rs: 28, Rt: 17, Rd: 4, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010010110111100001111110110
+Rs: 18, Rt: 27, Immed: 50166
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001111000001000000100000
+Rs: 25, Rt: 28, Rd: 2, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010111001111100000010111001
+Rs: 23, Rt: 7, Immed: 49337
+RType : Type: RTypeOpcode: 0, Machine code: 00000001010001101111000000100000
+Rs: 10, Rt: 6, Rd: 30, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011011001100100011010110101
+Rs: 27, Rt: 6, Immed: 18101
+RType : Type: RTypeOpcode: 0, Machine code: 00000001000111100110100000000111
+Rs: 8, Rt: 30, Rd: 13, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111110111101010010010001101
+Rs: 30, Rt: 30, Immed: 42125
+RType : Type: RTypeOpcode: 0, Machine code: 00000011101001011010100000100000
+Rs: 29, Rt: 5, Rd: 21, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100000101000101110010110110
+Rs: 0, Rt: 20, Immed: 23734
+RType : Type: RTypeOpcode: 0, Machine code: 00000001110000001010100000000011
+Rs: 14, Rt: 0, Rd: 21, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100101110110001011010000011
+Rs: 5, Rt: 27, Immed: 5763
+RType : Type: RTypeOpcode: 0, Machine code: 00000011111111110000000000100000
+Rs: 31, Rt: 31, Rd: 0, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011110110110010100010010100
+Rs: 30, Rt: 27, Immed: 10388
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000110000000000000100000
+Rs: 16, Rt: 24, Rd: 0, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101000101000100111011000011
+Rs: 8, Rt: 20, Immed: 20163
+RType : Type: RTypeOpcode: 0, Machine code: 00000010111100100111000000000100
+Rs: 23, Rt: 18, Rd: 14, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001011111101001000011011100
+Rs: 11, Rt: 30, Immed: 37084
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010101010101100000000011
+Rs: 2, Rt: 21, Rd: 11, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010101100001101011001001100
+Rs: 21, Rt: 16, Immed: 54860
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001001111101100000001000
+Rs: 25, Rt: 7, Rd: 27, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111000000000000111111101010
+Rs: 24, Rt: 0, Immed: 4074
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010100100001000000000100
+Rs: 2, Rt: 18, Rd: 2, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001011101100011001011010011
+Rs: 11, Rt: 22, Immed: 13011
+RType : Type: RTypeOpcode: 0, Machine code: 00000001010111101001100000000111
+Rs: 10, Rt: 30, Rd: 19, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111101100011111111011001100
+Rs: 29, Rt: 17, Immed: 65228
+RType : Type: RTypeOpcode: 0, Machine code: 00000010111110110011000000001000
+Rs: 23, Rt: 27, Rd: 6, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101100110100111001111000010
+Rs: 12, Rt: 26, Immed: 29634
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000111011010000000000100
+Rs: 16, Rt: 29, Rd: 20, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101101100110100111100000001
+Rs: 13, Rt: 19, Immed: 20225
+RType : Type: RTypeOpcode: 0, Machine code: 00000001010010110100100000000100
+Rs: 10, Rt: 11, Rd: 9, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001010111010100101000011000
+Rs: 10, Rt: 29, Immed: 18968
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011101011101100000000010
+Rs: 27, Rt: 21, Rd: 27, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111001011100110101100100101
+Rs: 25, Rt: 14, Immed: 27429
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000001101000000000000010
+Rs: 16, Rt: 6, Rd: 16, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100100111110010000101111001
+Rs: 4, Rt: 31, Immed: 8569
+RType : Type: RTypeOpcode: 0, Machine code: 00000001000001001111000000000010
+Rs: 8, Rt: 4, Rd: 30, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111001101111100000010111111
+Rs: 25, Rt: 23, Immed: 49343
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011001010000000000000111
+Rs: 27, Rt: 5, Rd: 0, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100000110101100011110001011
+Rs: 0, Rt: 26, Immed: 51083
+RType : Type: RTypeOpcode: 0, Machine code: 00000000011001111011000000000100
+Rs: 3, Rt: 7, Rd: 22, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001011100010100010010110010
+Rs: 11, Rt: 17, Immed: 17586
+RType : Type: RTypeOpcode: 0, Machine code: 00000001001000111011100000001000
+Rs: 9, Rt: 3, Rd: 23, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100010110000100001000101101
+Rs: 2, Rt: 24, Immed: 16941
+RType : Type: RTypeOpcode: 0, Machine code: 00000000110010011101100000000010
+Rs: 6, Rt: 9, Rd: 27, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000100101100010101111011011
+Rs: 4, Rt: 22, Immed: 11227
+RType : Type: RTypeOpcode: 0, Machine code: 00000011010010100001100000000010
+Rs: 26, Rt: 10, Rd: 3, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000000110011110001101010101
+Rs: 0, Rt: 25, Immed: 58197
+RType : Type: RTypeOpcode: 0, Machine code: 00000000101000110111000000000111
+Rs: 5, Rt: 3, Rd: 14, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011110011110111110000101010
+Rs: 30, Rt: 15, Immed: 31786
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110101100100000000000111
+Rs: 22, Rt: 22, Rd: 8, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000010100100101000010010111
+Rs: 2, Rt: 18, Immed: 20631
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000100101001000000000101
+Rs: 16, Rt: 18, Rd: 18, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100110010001110011001101000
+Rs: 6, Rt: 8, Immed: 58984
+RType : Type: RTypeOpcode: 0, Machine code: 00000000000001111100100000000011
+Rs: 0, Rt: 7, Rd: 25, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101001011101101001110001010
+Rs: 9, Rt: 14, Immed: 54154
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010010101111000000000111
+Rs: 2, Rt: 10, Rd: 30, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010101110001001010100011001
+Rs: 21, Rt: 24, Immed: 38169
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110001100011000000001000
+Rs: 30, Rt: 6, Rd: 6, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111100001001001111010000011
+Rs: 28, Rt: 4, Immed: 40579
+RType : Type: RTypeOpcode: 0, Machine code: 00000000101110011000100000000011
+Rs: 5, Rt: 25, Rd: 17, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111111001011101001110000000
+Rs: 31, Rt: 5, Immed: 54144
+RType : Type: RTypeOpcode: 0, Machine code: 00000011101110100010100000000100
+Rs: 29, Rt: 26, Rd: 5, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110101111100001110100111001
+Rs: 21, Rt: 30, Immed: 7481
+RType : Type: RTypeOpcode: 0, Machine code: 00000000101110011001000000100000
+Rs: 5, Rt: 25, Rd: 18, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010101001011000010011100001
+Rs: 21, Rt: 5, Immed: 34017
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011001001011100000000011
+Rs: 27, Rt: 4, Rd: 23, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100001110011111100111100011
+Rs: 1, Rt: 25, Immed: 63971
+RType : Type: RTypeOpcode: 0, Machine code: 00000000000111000100000000000010
+Rs: 0, Rt: 28, Rd: 8, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111111000101001011110010000
+Rs: 31, Rt: 2, Immed: 38800
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110111011111100000000101
+Rs: 30, Rt: 29, Rd: 31, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000011111011010101101001011
+Rs: 3, Rt: 29, Immed: 43851
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111010000101000000000100
+Rs: 15, Rt: 8, Rd: 10, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101111100001101001111001110
+Rs: 15, Rt: 16, Immed: 54222
+RType : Type: RTypeOpcode: 0, Machine code: 00000010100110100110100000000010
+Rs: 20, Rt: 26, Rd: 13, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100010011000111101001010110
+Rs: 2, Rt: 12, Immed: 31318
+RType : Type: RTypeOpcode: 0, Machine code: 00000001100011010100100000000010
+Rs: 12, Rt: 13, Rd: 9, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111100110101000000111010011
+Rs: 28, Rt: 26, Immed: 33235
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100100111001000000000101
+Rs: 28, Rt: 19, Rd: 18, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110010110111101010010000100
+Rs: 18, Rt: 27, Immed: 54404
+RType : Type: RTypeOpcode: 0, Machine code: 00000001100111001001000000100000
+Rs: 12, Rt: 28, Rd: 18, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111110101011001101010111101
+Rs: 30, Rt: 21, Immed: 39613
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010101001101100000000010
+Rs: 2, Rt: 20, Rd: 27, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111111110010010111100101010
+Rs: 31, Rt: 25, Immed: 12074
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000100101010000000000100
+Rs: 16, Rt: 18, Rd: 20, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110111001001001010001011011
+Rs: 23, Rt: 4, Immed: 37979
+RType : Type: RTypeOpcode: 0, Machine code: 00000011111011111001000000000100
+Rs: 31, Rt: 15, Rd: 18, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110000000010111110100100011
+Rs: 16, Rt: 1, Immed: 32035
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011100000110100000000100
+Rs: 27, Rt: 16, Rd: 13, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011010111100101111010101110
+Rs: 26, Rt: 30, Immed: 24238
+RType : Type: RTypeOpcode: 0, Machine code: 00000001010010111010100000000101
+Rs: 10, Rt: 11, Rd: 21, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110101011101011001110001100
+Rs: 21, Rt: 14, Immed: 45964
+RType : Type: RTypeOpcode: 0, Machine code: 00000010111000001000000000001000
+Rs: 23, Rt: 0, Rd: 16, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011100110111010001101101011
+Rs: 28, Rt: 27, Immed: 41835
+RType : Type: RTypeOpcode: 0, Machine code: 00000011010110111000000000000011
+Rs: 26, Rt: 27, Rd: 16, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000100101100011010000110101
+Rs: 4, Rt: 22, Immed: 13365
+RType : Type: RTypeOpcode: 0, Machine code: 00000010100101111100000000000010
+Rs: 20, Rt: 23, Rd: 24, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011010000011011010001000001
+Rs: 26, Rt: 1, Immed: 46145
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011110000100000000000011
+Rs: 27, Rt: 24, Rd: 8, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111110101110110011000001100
+Rs: 30, Rt: 23, Immed: 26124
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001101101110100000000011
+Rs: 25, Rt: 22, Rd: 29, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011110000010110010110010010
+Rs: 30, Rt: 1, Immed: 26002
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001110000100100000000010
+Rs: 25, Rt: 24, Rd: 9, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100110101000101111010101101
+Rs: 6, Rt: 20, Immed: 24237
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000100010010100000001000
+Rs: 16, Rt: 17, Rd: 5, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110010000001101111010100001
+Rs: 18, Rt: 0, Immed: 56993
+RType : Type: RTypeOpcode: 0, Machine code: 00000001101000000001000000100000
+Rs: 13, Rt: 0, Rd: 2, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101101000110101010010010000
+Rs: 13, Rt: 3, Immed: 21648
+RType : Type: RTypeOpcode: 0, Machine code: 00000010111001011010000000000100
+Rs: 23, Rt: 5, Rd: 20, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110010111000001000010011010
+Rs: 18, Rt: 28, Immed: 4250
+RType : Type: RTypeOpcode: 0, Machine code: 00000010101010011100100000000111
+Rs: 21, Rt: 9, Rd: 25, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111010001000011001111100100
+Rs: 26, Rt: 4, Immed: 13284
+RType : Type: RTypeOpcode: 0, Machine code: 00000010011101011011100000000011
+Rs: 19, Rt: 21, Rd: 23, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101000011010011110010101100
+Rs: 8, Rt: 13, Immed: 15532
+RType : Type: RTypeOpcode: 0, Machine code: 00000001100000100110100000000010
+Rs: 12, Rt: 2, Rd: 13, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111000110101000100100010001
+Rs: 24, Rt: 26, Immed: 35089
+RType : Type: RTypeOpcode: 0, Machine code: 00000000001101001110100000000100
+Rs: 1, Rt: 20, Rd: 29, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100110000111111101010101010
+Rs: 6, Rt: 3, Immed: 64170
+RType : Type: RTypeOpcode: 0, Machine code: 00000001101100110101100000000100
+Rs: 13, Rt: 19, Rd: 11, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100110111010011000101001110
+Rs: 6, Rt: 29, Immed: 12622
+RType : Type: RTypeOpcode: 0, Machine code: 00000000000111000101000000000111
+Rs: 0, Rt: 28, Rd: 10, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111000110101111010100100111
+Rs: 24, Rt: 26, Immed: 62759
+RType : Type: RTypeOpcode: 0, Machine code: 00000001000111001111000000001000
+Rs: 8, Rt: 28, Rd: 30, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100000100011010000011111111
+Rs: 0, Rt: 17, Immed: 41215
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110111010001100000000011
+Rs: 22, Rt: 29, Rd: 3, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111000101000101010101011010
+Rs: 24, Rt: 20, Immed: 21850
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111100101111000000000111
+Rs: 15, Rt: 18, Rd: 30, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100000110110100110101000100
+Rs: 0, Rt: 27, Immed: 19780
+RType : Type: RTypeOpcode: 0, Machine code: 00000000110101111101000000000101
+Rs: 6, Rt: 23, Rd: 26, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101111000000011000010111011
+Rs: 15, Rt: 0, Immed: 12475
+RType : Type: RTypeOpcode: 0, Machine code: 00000010011101011011000000100000
+Rs: 19, Rt: 21, Rd: 22, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100010001010110000101101000
+Rs: 2, Rt: 5, Immed: 24936
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000111111100000000100000
+Rs: 24, Rt: 31, Rd: 24, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100011011001001101001100010
+Rs: 3, Rt: 12, Immed: 39522
+RType : Type: RTypeOpcode: 0, Machine code: 00000001101000101010000000000111
+Rs: 13, Rt: 2, Rd: 20, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101011011000001110010010101
+Rs: 11, Rt: 12, Immed: 7317
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011000001110100000000111
+Rs: 11, Rt: 0, Rd: 29, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001111000000101000010000001
+Rs: 15, Rt: 0, Immed: 20609
+RType : Type: RTypeOpcode: 0, Machine code: 00000011101111101011000000000010
+Rs: 29, Rt: 30, Rd: 22, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101000100001001110111100001
+Rs: 8, Rt: 16, Immed: 40417
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011010001100000000000010
+Rs: 11, Rt: 8, Rd: 24, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011111110010011110100110000
+Rs: 31, Rt: 25, Immed: 15664
+RType : Type: RTypeOpcode: 0, Machine code: 00000000000000000111100000001000
+Rs: 0, Rt: 0, Rd: 15, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111001001100010101100101111
+Rs: 25, Rt: 6, Immed: 11055
+RType : Type: RTypeOpcode: 0, Machine code: 00000000000001101111000000000100
+Rs: 0, Rt: 6, Rd: 30, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010011111010100110111011110
+Rs: 19, Rt: 29, Immed: 19934
+RType : Type: RTypeOpcode: 0, Machine code: 00000010011001111111100000000011
+Rs: 19, Rt: 7, Rd: 31, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111010000000110110000011100
+Rs: 26, Rt: 0, Immed: 27676
+RType : Type: RTypeOpcode: 0, Machine code: 00000001110000100011000000000011
+Rs: 14, Rt: 2, Rd: 6, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000011110111111010100101100
+Rs: 3, Rt: 27, Immed: 62764
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001000010110100000001000
+Rs: 17, Rt: 1, Rd: 13, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001011011011101101010000100
+Rs: 11, Rt: 13, Immed: 55940
+RType : Type: RTypeOpcode: 0, Machine code: 00000001101010011111100000000100
+Rs: 13, Rt: 9, Rd: 31, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101101000001000001111011010
+Rs: 13, Rt: 0, Immed: 33754
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001100010111000000000101
+Rs: 25, Rt: 17, Rd: 14, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100111001110010010001000101
+Rs: 7, Rt: 7, Immed: 9285
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000010000111100000000111
+Rs: 24, Rt: 8, Rd: 15, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111100010100100101001110001
+Rs: 28, Rt: 10, Immed: 19057
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000001000101100000000011
+Rs: 24, Rt: 4, Rd: 11, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110100011101111001100100100
+Rs: 20, Rt: 14, Immed: 62244
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011100000110100000000011
+Rs: 27, Rt: 16, Rd: 13, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001111100001010100110000101
+Rs: 15, Rt: 16, Immed: 43397
+RType : Type: RTypeOpcode: 0, Machine code: 00000001100000011000100000000100
+Rs: 12, Rt: 1, Rd: 17, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111010001000100010110010011
+Rs: 26, Rt: 4, Immed: 17811
+RType : Type: RTypeOpcode: 0, Machine code: 00000000100000110011000000100000
+Rs: 4, Rt: 3, Rd: 6, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010101000111001110111010010
+Rs: 21, Rt: 3, Immed: 40402
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011011000110000000000010
+Rs: 27, Rt: 12, Rd: 12, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010011011101001101111100010
+Rs: 19, Rt: 14, Immed: 39906
+RType : Type: RTypeOpcode: 0, Machine code: 00000010010111011000100000001000
+Rs: 18, Rt: 29, Rd: 17, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011010011100000000110100111
+Rs: 26, Rt: 14, Immed: 423
+RType : Type: RTypeOpcode: 0, Machine code: 00000001001001100110100000001000
+Rs: 9, Rt: 6, Rd: 13, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010100001001011010010001010
+Rs: 20, Rt: 4, Immed: 46218
+RType : Type: RTypeOpcode: 0, Machine code: 00000000110001011101100000000101
+Rs: 6, Rt: 5, Rd: 27, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101011100111001111000100110
+Rs: 11, Rt: 19, Immed: 40486
+RType : Type: RTypeOpcode: 0, Machine code: 00000001110011111011100000000011
+Rs: 14, Rt: 15, Rd: 23, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100010111100001000111111100
+Rs: 2, Rt: 30, Immed: 4604
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110101110000000000100000
+Rs: 30, Rt: 23, Rd: 0, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100001000011101011000110101
+Rs: 1, Rt: 1, Immed: 54837
+RType : Type: RTypeOpcode: 0, Machine code: 00000011101110100010000000000101
+Rs: 29, Rt: 26, Rd: 4, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010111110100100100001100101
+Rs: 23, Rt: 26, Immed: 18533
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001100110100000000001000
+Rs: 25, Rt: 19, Rd: 8, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100101110001100111110011100
+Rs: 5, Rt: 24, Immed: 53148
+RType : Type: RTypeOpcode: 0, Machine code: 00000001001010000001100000000101
+Rs: 9, Rt: 8, Rd: 3, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110000001011000001010010010
+Rs: 16, Rt: 5, Immed: 33426
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010010111110000000001000
+Rs: 2, Rt: 11, Rd: 28, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000110111001110000011011100
+Rs: 6, Rt: 28, Immed: 57564
+RType : Type: RTypeOpcode: 0, Machine code: 00000000111111011001000000000010
+Rs: 7, Rt: 29, Rd: 18, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111001111100011110100000010
+Rs: 25, Rt: 30, Immed: 15618
+RType : Type: RTypeOpcode: 0, Machine code: 00000010000110111001000000000100
+Rs: 16, Rt: 27, Rd: 18, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011101001001101100001100001
+Rs: 29, Rt: 4, Immed: 55393
+RType : Type: RTypeOpcode: 0, Machine code: 00000001101000010110100000000100
+Rs: 13, Rt: 1, Rd: 13, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110010011011011110110001101
+Rs: 18, Rt: 13, Immed: 48525
+RType : Type: RTypeOpcode: 0, Machine code: 00000010100010111010000000000111
+Rs: 20, Rt: 11, Rd: 20, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100011000100000101111101011
+Rs: 3, Rt: 2, Immed: 3051
+RType : Type: RTypeOpcode: 0, Machine code: 00000000011000001010000000000100
+Rs: 3, Rt: 0, Rd: 20, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000111010110011110110110000
+Rs: 7, Rt: 11, Immed: 15792
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001000111000100000000101
+Rs: 25, Rt: 3, Rd: 17, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101001010010011111111010101
+Rs: 9, Rt: 9, Immed: 16341
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110001000101100000001000
+Rs: 30, Rt: 4, Rd: 11, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101110110101011011101011100
+Rs: 14, Rt: 26, Immed: 46940
+RType : Type: RTypeOpcode: 0, Machine code: 00000001010010011010100000001000
+Rs: 10, Rt: 9, Rd: 21, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111100001100111001001011001
+Rs: 28, Rt: 6, Immed: 29273
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100011011101000000000100
+Rs: 28, Rt: 13, Rd: 26, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101011010100011111101111111
+Rs: 11, Rt: 10, Immed: 16255
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111010110000000000001000
+Rs: 15, Rt: 11, Rd: 0, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100110001000010101100100001
+Rs: 6, Rt: 4, Immed: 11041
+RType : Type: RTypeOpcode: 0, Machine code: 00000001001001111110100000100000
+Rs: 9, Rt: 7, Rd: 29, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101111000011111111100101011
+Rs: 15, Rt: 1, Immed: 65323
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110011000111100000000100
+Rs: 30, Rt: 12, Rd: 15, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000111011000000011001101110
+Rs: 7, Rt: 12, Immed: 1646
+RType : Type: RTypeOpcode: 0, Machine code: 00000010010010111100000000000100
+Rs: 18, Rt: 11, Rd: 24, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000011100001110101011101111
+Rs: 3, Rt: 16, Immed: 60143
+RType : Type: RTypeOpcode: 0, Machine code: 00000000100110011000100000000111
+Rs: 4, Rt: 25, Rd: 17, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101111100001010101001000111
+Rs: 15, Rt: 16, Immed: 43591
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001001100000000000001000
+Rs: 25, Rt: 6, Rd: 0, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011110101001000110111111111
+Rs: 30, Rt: 20, Immed: 36351
+RType : Type: RTypeOpcode: 0, Machine code: 00000000110100110101100000100000
+Rs: 6, Rt: 19, Rd: 11, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001010001010111001010001001
+Rs: 10, Rt: 5, Immed: 29321
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001100010111000000000100
+Rs: 25, Rt: 17, Rd: 14, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100100111100111011110110110
+Rs: 4, Rt: 30, Immed: 30646
+RType : Type: RTypeOpcode: 0, Machine code: 00000000000000111010000000100000
+Rs: 0, Rt: 3, Rd: 20, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011000100000101110101001110
+Rs: 24, Rt: 16, Immed: 23886
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110110011001000000000010
+Rs: 22, Rt: 25, Rd: 18, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111001011111011111100011000
+Rs: 25, Rt: 15, Immed: 48920
+RType : Type: RTypeOpcode: 0, Machine code: 00000000011101001101100000000101
+Rs: 3, Rt: 20, Rd: 27, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001001101001110101001001000
+Rs: 9, Rt: 20, Immed: 59976
+RType : Type: RTypeOpcode: 0, Machine code: 00000001100110100010100000000010
+Rs: 12, Rt: 26, Rd: 5, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000100100000101111110010011
+Rs: 4, Rt: 16, Immed: 24467
+RType : Type: RTypeOpcode: 0, Machine code: 00000011010001111110100000000101
+Rs: 26, Rt: 7, Rd: 29, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010111000011001110010010011
+Rs: 23, Rt: 1, Immed: 40083
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001011101001000000000100
+Rs: 25, Rt: 14, Rd: 18, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100110011011000101001000010
+Rs: 6, Rt: 13, Immed: 35394
+RType : Type: RTypeOpcode: 0, Machine code: 00000001110100011000100000000011
+Rs: 14, Rt: 17, Rd: 17, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101111010110000000011000111
+Rs: 15, Rt: 11, Immed: 199
+RType : Type: RTypeOpcode: 0, Machine code: 00000011101010101110100000000011
+Rs: 29, Rt: 10, Rd: 29, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100110010010010010101010100
+Rs: 6, Rt: 9, Immed: 9556
+RType : Type: RTypeOpcode: 0, Machine code: 00000011100001110111000000001000
+Rs: 28, Rt: 7, Rd: 14, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111110101000101001110110111
+Rs: 30, Rt: 20, Immed: 21431
+RType : Type: RTypeOpcode: 0, Machine code: 00000011111110111101100000001000
+Rs: 31, Rt: 27, Rd: 27, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101001111111101111101011011
+Rs: 9, Rt: 31, Immed: 57179
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001011100010100000000011
+Rs: 17, Rt: 14, Rd: 5, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110001101111110111000000000
+Rs: 17, Rt: 23, Immed: 60928
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111001010110100000000100
+Rs: 15, Rt: 5, Rd: 13, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001010111111000011110110111
+Rs: 10, Rt: 31, Immed: 34743
+RType : Type: RTypeOpcode: 0, Machine code: 00000000000000011000100000000111
+Rs: 0, Rt: 1, Rd: 17, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111011110100110000001011001
+Rs: 27, Rt: 26, Immed: 24665
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010110011111000000000011
+Rs: 2, Rt: 25, Rd: 30, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101000000001001000000110000
+Rs: 8, Rt: 0, Immed: 36912
+RType : Type: RTypeOpcode: 0, Machine code: 00000010010110001011000000001000
+Rs: 18, Rt: 24, Rd: 22, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101001101011110101110100000
+Rs: 9, Rt: 21, Immed: 60320
+RType : Type: RTypeOpcode: 0, Machine code: 00000011111010110100000000000010
+Rs: 31, Rt: 11, Rd: 8, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111001101100110101000101101
+Rs: 25, Rt: 22, Immed: 27181
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011000101010100000000011
+Rs: 11, Rt: 2, Rd: 21, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111000100111011001110100101
+Rs: 24, Rt: 19, Immed: 45989
+RType : Type: RTypeOpcode: 0, Machine code: 00000010100111010110100000000101
+Rs: 20, Rt: 29, Rd: 13, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010001000100011010000111001
+Rs: 17, Rt: 2, Immed: 13369
+RType : Type: RTypeOpcode: 0, Machine code: 00000010101100101111100000000111
+Rs: 21, Rt: 18, Rd: 31, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011010000100100010100010101
+Rs: 26, Rt: 2, Immed: 17685
+RType : Type: RTypeOpcode: 0, Machine code: 00000000110100111110000000000100
+Rs: 6, Rt: 19, Rd: 28, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000100000111010111000110100
+Rs: 4, Rt: 3, Immed: 44596
+RType : Type: RTypeOpcode: 0, Machine code: 00000011010100101111000000000010
+Rs: 26, Rt: 18, Rd: 30, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110100001101110110001011101
+Rs: 20, Rt: 6, Immed: 60509
+RType : Type: RTypeOpcode: 0, Machine code: 00000001001001010101000000100000
+Rs: 9, Rt: 5, Rd: 10, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101100001011010101001001011
+Rs: 12, Rt: 5, Immed: 43595
+RType : Type: RTypeOpcode: 0, Machine code: 00000000110101111010100000000011
+Rs: 6, Rt: 23, Rd: 21, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000100100000011011000111011
+Rs: 4, Rt: 16, Immed: 13883
+RType : Type: RTypeOpcode: 0, Machine code: 00000010100111000011000000000100
+Rs: 20, Rt: 28, Rd: 6, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000000011001101111100101001
+Rs: 0, Rt: 12, Immed: 57129
+RType : Type: RTypeOpcode: 0, Machine code: 00000001111101001000100000000011
+Rs: 15, Rt: 20, Rd: 17, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010010101001101011110001010
+Rs: 18, Rt: 20, Immed: 55178
+RType : Type: RTypeOpcode: 0, Machine code: 00000011110010011110100000100000
+Rs: 30, Rt: 9, Rd: 29, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001101101010001011100111111
+Rs: 13, Rt: 21, Immed: 5951
+RType : Type: RTypeOpcode: 0, Machine code: 00000000111001011111000000001000
+Rs: 7, Rt: 5, Rd: 30, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010001001001000101000010111
+Rs: 17, Rt: 4, Immed: 35351
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001011000111000000000100
+Rs: 17, Rt: 12, Rd: 14, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011110011100000100011010110
+Rs: 30, Rt: 14, Immed: 2262
+RType : Type: RTypeOpcode: 0, Machine code: 00000010111101111011000000001000
+Rs: 23, Rt: 23, Rd: 22, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111100101111010010010000111
+Rs: 28, Rt: 23, Immed: 42119
+RType : Type: RTypeOpcode: 0, Machine code: 00000011001011001100000000000100
+Rs: 25, Rt: 12, Rd: 24, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111111001110010010011011100
+Rs: 31, Rt: 7, Immed: 9436
+RType : Type: RTypeOpcode: 0, Machine code: 00000001010110000000100000000100
+Rs: 10, Rt: 24, Rd: 1, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100110010110010011000011101
+Rs: 6, Rt: 11, Immed: 9757
+RType : Type: RTypeOpcode: 0, Machine code: 00000000010101111010100000000100
+Rs: 2, Rt: 23, Rd: 21, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110101110100001011100010111
+Rs: 21, Rt: 26, Immed: 5911
+RType : Type: RTypeOpcode: 0, Machine code: 00000010011110011011100000000111
+Rs: 19, Rt: 25, Rd: 23, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011111110100111010001000110
+Rs: 31, Rt: 26, Immed: 29766
+RType : Type: RTypeOpcode: 0, Machine code: 00000010100011011011100000000100
+Rs: 20, Rt: 13, Rd: 23, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011110101101001011000111100
+Rs: 30, Rt: 22, Immed: 38460
+RType : Type: RTypeOpcode: 0, Machine code: 00000001101010101011000000100000
+Rs: 13, Rt: 10, Rd: 22, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110001111011011001001101101
+Rs: 17, Rt: 29, Immed: 45677
+RType : Type: RTypeOpcode: 0, Machine code: 00000011101111011000000000001000
+Rs: 29, Rt: 29, Rd: 16, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100100010111010100101100111
+Rs: 4, Rt: 11, Immed: 43367
+RType : Type: RTypeOpcode: 0, Machine code: 00000000111010100001000000000101
+Rs: 7, Rt: 10, Rd: 2, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010001101010001101100110101
+Rs: 17, Rt: 21, Immed: 6965
+RType : Type: RTypeOpcode: 0, Machine code: 00000000100011000010100000001000
+Rs: 4, Rt: 12, Rd: 5, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000001101110001011111111001
+Rs: 1, Rt: 23, Immed: 6137
+RType : Type: RTypeOpcode: 0, Machine code: 00000010101001011000000000001000
+Rs: 21, Rt: 5, Rd: 16, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010011110001111000110110100
+Rs: 19, Rt: 24, Immed: 61876
+RType : Type: RTypeOpcode: 0, Machine code: 00000010011010110011000000001000
+Rs: 19, Rt: 11, Rd: 6, Funct: RTypeFunct.JUMP_REG
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010000100000111001110110100
+Rs: 16, Rt: 16, Immed: 29620
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000111000101100000000010
+Rs: 24, Rt: 28, Rd: 11, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100001101011110001000011000
+Rs: 1, Rt: 21, Immed: 57880
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001010001011100000000101
+Rs: 17, Rt: 8, Rd: 23, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110110011010011001111010000
+Rs: 22, Rt: 13, Immed: 13264
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000000000101100000000010
+Rs: 24, Rt: 0, Rd: 11, Funct: RTypeFunct.ADD
+IType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011101100001000001101111010
+Rs: 29, Rt: 16, Immed: 33658
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001001101010000000000100
+Rs: 17, Rt: 6, Rd: 20, Funct: RTypeFunct.AND
+IType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011010011001000111011110100
+Rs: 26, Rt: 12, Immed: 36596
+RType : Type: RTypeOpcode: 0, Machine code: 00000011011110011000000000100000
+Rs: 27, Rt: 25, Rd: 16, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000110110100101011110101111
+Rs: 6, Rt: 26, Immed: 22447
+RType : Type: RTypeOpcode: 0, Machine code: 00000011111001100001000000100000
+Rs: 31, Rt: 6, Rd: 2, Funct: RTypeFunct.MOVE
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110001000001010101011011010
+Rs: 17, Rt: 0, Immed: 43738
+RType : Type: RTypeOpcode: 0, Machine code: 00000001011100101110000000000111
+Rs: 11, Rt: 18, Rd: 28, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010001110110111000001100111
+Rs: 17, Rt: 27, Immed: 28775
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110100000110100000000101
+Rs: 22, Rt: 16, Rd: 13, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101110010110100111110110001
+Rs: 14, Rt: 11, Immed: 20401
+RType : Type: RTypeOpcode: 0, Machine code: 00000010110001101111000000000011
+Rs: 22, Rt: 6, Rd: 30, Funct: RTypeFunct.SUB
+IType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101010010011100000111011100
+Rs: 10, Rt: 9, Immed: 49628
+RType : Type: RTypeOpcode: 0, Machine code: 00000001110100110001000000000111
+Rs: 14, Rt: 19, Rd: 2, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111100011001000001101011000
+Rs: 28, Rt: 12, Immed: 33624
+RType : Type: RTypeOpcode: 0, Machine code: 00000010001100000001100000000101
+Rs: 17, Rt: 16, Rd: 3, Funct: RTypeFunct.OR
+IType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100101010111010100111000100
+Rs: 5, Rt: 11, Immed: 43460
+RType : Type: RTypeOpcode: 0, Machine code: 00000011000100110001000000000111
+Rs: 24, Rt: 19, Rd: 2, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100100001110111101110010101
+Rs: 4, Rt: 7, Immed: 31637
+RType : Type: RTypeOpcode: 0, Machine code: 00000010101011100110100000000111
+Rs: 21, Rt: 14, Rd: 13, Funct: RTypeFunct.SET_LESS_THAN
+IType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100010101010100110110001110
+Rs: 2, Rt: 21, Immed: 19854
+RType : Type: RTypeOpcode: 0, Machine code: 00000000111001001011100000000111
+Rs: 7, Rt: 4, Rd: 23, Funct: RTypeFunct.SET_LESS_THAN

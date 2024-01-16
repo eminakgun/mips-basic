@@ -1,0 +1,2048 @@
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100000010001100110011111110
+Rs: 0, Rt: 8, Immed: 52478
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100110111011100001000101010
+Rs: 6, Rt: 29, Immed: 49706
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110000111110011011101110010
+Rs: 16, Rt: 31, Immed: 14194
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110001001000111001001001001
+Rs: 17, Rt: 4, Immed: 29257
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101101000010100000110100101
+Rs: 13, Rt: 1, Immed: 16805
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110010001101011111111010100
+Rs: 18, Rt: 6, Immed: 49108
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011111001111000000100000110
+Rs: 31, Rt: 7, Immed: 33030
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011101110101101101111111101
+Rs: 29, Rt: 26, Immed: 56317
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001000110011000101000001001
+Rs: 8, Rt: 25, Immed: 35337
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011110101010110001110111000
+Rs: 30, Rt: 21, Immed: 25528
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100000001110010001011101010
+Rs: 0, Rt: 7, Immed: 8938
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000011001100001001010010110
+Rs: 3, Rt: 6, Immed: 4758
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010110110110011011010011010
+Rs: 22, Rt: 27, Immed: 13978
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111100010101100110011101000
+Rs: 28, Rt: 10, Immed: 52456
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011110110101110110101110111
+Rs: 30, Rt: 26, Immed: 60791
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111000110001101001010111101
+Rs: 24, Rt: 24, Immed: 53949
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011000100011001001001101111
+Rs: 24, Rt: 17, Immed: 37487
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011100001011001101111010101
+Rs: 28, Rt: 5, Immed: 39893
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110111111100110010100000001
+Rs: 23, Rt: 30, Immed: 25857
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001101110111010110011101110
+Rs: 13, Rt: 27, Immed: 44270
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110110101011010101011011100
+Rs: 22, Rt: 21, Immed: 43740
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001010010011010011111110100
+Rs: 10, Rt: 9, Immed: 42996
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100001100011111010010101000
+Rs: 1, Rt: 17, Immed: 62632
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010000001101010000001100010
+Rs: 16, Rt: 6, Immed: 41058
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101010100100110010011100100
+Rs: 10, Rt: 18, Immed: 25828
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100001010001001010110100011
+Rs: 1, Rt: 8, Immed: 38307
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010011001001010110011111011
+Rs: 19, Rt: 4, Immed: 44283
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101011010110100001000101000
+Rs: 11, Rt: 11, Immed: 16936
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110111011001110111100110011
+Rs: 23, Rt: 12, Immed: 61235
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100101100110111111010001011
+Rs: 5, Rt: 19, Immed: 32395
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101000100011011110101001100
+Rs: 8, Rt: 17, Immed: 48460
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110111011101000110110110011
+Rs: 23, Rt: 14, Immed: 36275
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110101100110011100000011011
+Rs: 21, Rt: 19, Immed: 14363
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101111000000111111000111001
+Rs: 15, Rt: 0, Immed: 32313
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000111110101010001010111111
+Rs: 7, Rt: 26, Immed: 41663
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010010001010110000111000110
+Rs: 18, Rt: 5, Immed: 25030
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100110000010101111000011001
+Rs: 6, Rt: 1, Immed: 24089
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101111100000010001101010110
+Rs: 15, Rt: 16, Immed: 9046
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110100001111100100110001111
+Rs: 20, Rt: 7, Immed: 51599
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101101111000001111001110000
+Rs: 13, Rt: 28, Immed: 7792
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101010011000011011110011001
+Rs: 10, Rt: 12, Immed: 14233
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101010010100101111111000010
+Rs: 10, Rt: 10, Immed: 24514
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011001101010101111011101010
+Rs: 25, Rt: 21, Immed: 24298
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111110110011001100011101011
+Rs: 30, Rt: 25, Immed: 39147
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110001001001010100011111101
+Rs: 17, Rt: 4, Immed: 43261
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101110111000110100100010110
+Rs: 14, Rt: 28, Immed: 26902
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001000100101111111100110100
+Rs: 8, Rt: 18, Immed: 65332
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101100011101000101000111000
+Rs: 12, Rt: 14, Immed: 35384
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100111101101101100010001010
+Rs: 7, Rt: 22, Immed: 55434
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000100000100100010111001111
+Rs: 4, Rt: 2, Immed: 17871
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110100100001011110010111110
+Rs: 20, Rt: 16, Immed: 48318
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001000000111001100110111111
+Rs: 8, Rt: 3, Immed: 39359
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001000000000010111101001100
+Rs: 8, Rt: 0, Immed: 12108
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100001101101110111011001000
+Rs: 1, Rt: 22, Immed: 61128
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100101010111011110110111001
+Rs: 5, Rt: 11, Immed: 48569
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111111011100001101110011000
+Rs: 31, Rt: 14, Immed: 7064
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111001111100111001011100010
+Rs: 25, Rt: 30, Immed: 29410
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100100111101100111011010011
+Rs: 4, Rt: 30, Immed: 52947
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101110110111101101111100011
+Rs: 14, Rt: 27, Immed: 56291
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110110100101000101000110000
+Rs: 22, Rt: 18, Immed: 35376
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111001111010011111111001100
+Rs: 25, Rt: 29, Immed: 16332
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110101110100000110010000010
+Rs: 21, Rt: 26, Immed: 3202
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100101001100100011000111101
+Rs: 5, Rt: 6, Immed: 17981
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010101100100110110110100000
+Rs: 21, Rt: 18, Immed: 28064
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111011000101010011001110100
+Rs: 27, Rt: 2, Immed: 42612
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110100101001110011010100000
+Rs: 20, Rt: 20, Immed: 59040
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001010001110100110110111100
+Rs: 10, Rt: 7, Immed: 19900
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000000100110111011001111000
+Rs: 0, Rt: 19, Immed: 30328
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101111101001001001000010010
+Rs: 15, Rt: 20, Immed: 37394
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111111001110101111000000010
+Rs: 31, Rt: 7, Immed: 24066
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001101000001100000111101110
+Rs: 13, Rt: 0, Immed: 49646
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101001101000111110010101101
+Rs: 9, Rt: 20, Immed: 31917
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011111101100111110000000111
+Rs: 31, Rt: 22, Immed: 31751
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100011100100100010101000111
+Rs: 3, Rt: 18, Immed: 17735
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010101101010010001000111000
+Rs: 21, Rt: 21, Immed: 8760
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111010100111110101010100101
+Rs: 26, Rt: 19, Immed: 60069
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001011111111011000000111111
+Rs: 11, Rt: 31, Immed: 45119
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110111101101100000110110110
+Rs: 23, Rt: 22, Immed: 49590
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111001110100001001100111110
+Rs: 25, Rt: 26, Immed: 4926
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000011001111100010101010111
+Rs: 3, Rt: 7, Immed: 50519
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100001011110000111011100000
+Rs: 1, Rt: 15, Immed: 3808
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100101101011111100111001110
+Rs: 5, Rt: 21, Immed: 63950
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111011100001100111000000111
+Rs: 27, Rt: 16, Immed: 52743
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110010001000010010111100010
+Rs: 18, Rt: 4, Immed: 9698
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110001011010000110101000000
+Rs: 17, Rt: 13, Immed: 3392
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101010011100010010011100001
+Rs: 10, Rt: 14, Immed: 9441
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000000111011101010011100101
+Rs: 0, Rt: 29, Immed: 54501
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110110001111111011101100010
+Rs: 22, Rt: 7, Immed: 63330
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100001001101101110111001110
+Rs: 1, Rt: 6, Immed: 56782
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100111001011011101101011010
+Rs: 7, Rt: 5, Immed: 47962
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111001101111010101010110100
+Rs: 25, Rt: 23, Immed: 43700
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101101110011001000000001100
+Rs: 13, Rt: 25, Immed: 36876
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110111001110101010110101011
+Rs: 23, Rt: 7, Immed: 21931
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100001111111101101010010011
+Rs: 1, Rt: 31, Immed: 55955
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101100110101100011111100111
+Rs: 12, Rt: 26, Immed: 51175
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010001100110000101111001011
+Rs: 17, Rt: 19, Immed: 3019
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010100111011110110111010011
+Rs: 20, Rt: 29, Immed: 60883
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111000000101000000010110010
+Rs: 24, Rt: 2, Immed: 32946
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101100111111001000101101101
+Rs: 12, Rt: 31, Immed: 37229
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110011110100111101000010001
+Rs: 19, Rt: 26, Immed: 31249
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100011000000010111101101110
+Rs: 3, Rt: 0, Immed: 12142
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100011001001000111011101101
+Rs: 3, Rt: 4, Immed: 36589
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011111000001001110001101011
+Rs: 31, Rt: 0, Immed: 40043
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010001100101111011010001010
+Rs: 17, Rt: 18, Immed: 63114
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001100000111110111010000011
+Rs: 12, Rt: 3, Immed: 61059
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011000111010100001101100110
+Rs: 24, Rt: 29, Immed: 17254
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011111110001011001000101101
+Rs: 31, Rt: 24, Immed: 45613
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100000100100011011011001010
+Rs: 0, Rt: 18, Immed: 14026
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110101001010001101110101110
+Rs: 21, Rt: 5, Immed: 7086
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101100001100011110110000001
+Rs: 12, Rt: 6, Immed: 15745
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100110111000100011100100111
+Rs: 6, Rt: 28, Immed: 18215
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101010000110000101100011001
+Rs: 10, Rt: 3, Immed: 2841
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110001110000000001001111110
+Rs: 17, Rt: 24, Immed: 638
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110110001010010010110101001
+Rs: 22, Rt: 5, Immed: 9641
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101001100001111000000101011
+Rs: 9, Rt: 16, Immed: 61483
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110011011000111100011010101
+Rs: 19, Rt: 12, Immed: 30933
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011101001100011111010101100
+Rs: 29, Rt: 6, Immed: 16044
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001100011100010001100010001
+Rs: 12, Rt: 14, Immed: 8977
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011110010110011010101011001
+Rs: 30, Rt: 11, Immed: 13657
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111110000100110001110001100
+Rs: 30, Rt: 2, Immed: 25484
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010100110110101111000100110
+Rs: 20, Rt: 27, Immed: 24102
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110101000001101110000101110
+Rs: 21, Rt: 0, Immed: 56366
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111110111011110011001110011
+Rs: 30, Rt: 29, Immed: 58995
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110101100010000111111100101
+Rs: 21, Rt: 17, Immed: 4069
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101000111100111101010111000
+Rs: 8, Rt: 30, Immed: 31416
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110110001010110001111110000
+Rs: 22, Rt: 5, Immed: 25584
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001011100011011110111101000
+Rs: 11, Rt: 17, Immed: 48616
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101010100000011110111100000
+Rs: 10, Rt: 16, Immed: 15840
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011100011101011001011000101
+Rs: 28, Rt: 14, Immed: 45765
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100110101101111001010011101
+Rs: 6, Rt: 22, Immed: 62109
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011111010001100001001001110
+Rs: 31, Rt: 8, Immed: 49742
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000001010101011110001111110
+Rs: 1, Rt: 10, Immed: 48254
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101010000110110111111011100
+Rs: 10, Rt: 3, Immed: 28636
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100010100010010111001101100
+Rs: 2, Rt: 17, Immed: 11884
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110101001011010101001101111
+Rs: 21, Rt: 5, Immed: 43631
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101100001001001110001100111
+Rs: 12, Rt: 4, Immed: 40039
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111000111110101101100100111
+Rs: 24, Rt: 31, Immed: 23335
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110101011000100101000110110
+Rs: 21, Rt: 12, Immed: 18998
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011001101000100101100000110
+Rs: 25, Rt: 20, Immed: 19206
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011110101111101000011101000
+Rs: 30, Rt: 23, Immed: 53480
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000100000100000110000100110
+Rs: 4, Rt: 2, Immed: 3110
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011101001010110010101011010
+Rs: 29, Rt: 5, Immed: 25946
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001100011001011101100110011
+Rs: 12, Rt: 12, Immed: 47923
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100010100100001101100000000
+Rs: 2, Rt: 18, Immed: 6912
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101000001010000010100011000
+Rs: 8, Rt: 5, Immed: 1304
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010001101100001100011010110
+Rs: 17, Rt: 22, Immed: 6358
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000010100000111110110011001
+Rs: 2, Rt: 16, Immed: 32153
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101000110100010000111110000
+Rs: 8, Rt: 26, Immed: 8688
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101101111000000011010001100
+Rs: 13, Rt: 28, Immed: 1676
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000111011000010111110100000
+Rs: 7, Rt: 12, Immed: 12192
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001000010110011111100001100
+Rs: 8, Rt: 11, Immed: 16140
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111111101100111111011101100
+Rs: 31, Rt: 22, Immed: 32492
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100001011111010100001101011
+Rs: 1, Rt: 15, Immed: 43115
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100011111000111010000010001
+Rs: 3, Rt: 28, Immed: 29713
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001100001110111101111010010
+Rs: 12, Rt: 7, Immed: 31698
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101001000100011000110111001
+Rs: 9, Rt: 2, Immed: 12729
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011001000100100001001101010
+Rs: 25, Rt: 2, Immed: 17002
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000101101100010100000111111
+Rs: 5, Rt: 22, Immed: 10303
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000111110001100110110000011
+Rs: 7, Rt: 24, Immed: 52611
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000010001111001000000101010
+Rs: 2, Rt: 7, Immed: 36906
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001110010010111101010100101
+Rs: 14, Rt: 9, Immed: 31397
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000110111011010001001100111
+Rs: 6, Rt: 29, Immed: 41575
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110110101101010101000001011
+Rs: 22, Rt: 22, Immed: 43531
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001111010111100100011001111
+Rs: 15, Rt: 11, Immed: 51407
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111101001000100010000110001
+Rs: 29, Rt: 4, Immed: 17457
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101100000100100001001101111
+Rs: 12, Rt: 2, Immed: 17007
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011001000010110100111100101
+Rs: 25, Rt: 1, Immed: 27109
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111001110010100100010101111
+Rs: 25, Rt: 25, Immed: 18607
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000011110010010001011101010
+Rs: 3, Rt: 25, Immed: 8938
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011010001001101110000110101
+Rs: 26, Rt: 4, Immed: 56373
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000011101110010111000001111
+Rs: 3, Rt: 23, Immed: 11791
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001000111010011100111111011
+Rs: 8, Rt: 29, Immed: 14843
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101000010110000111010100011
+Rs: 8, Rt: 11, Immed: 3747
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011001011111010010111100111
+Rs: 25, Rt: 15, Immed: 42471
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011100011000010100101001010
+Rs: 28, Rt: 12, Immed: 10570
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110011110101110110010100001
+Rs: 19, Rt: 26, Immed: 60577
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101111100010100111001100000
+Rs: 15, Rt: 17, Immed: 20064
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100010000010100010111000111
+Rs: 2, Rt: 1, Immed: 17863
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100001101100010011110011011
+Rs: 1, Rt: 22, Immed: 10139
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011010001001010110100011011
+Rs: 26, Rt: 4, Immed: 44315
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110011111000000001111011001
+Rs: 19, Rt: 28, Immed: 985
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110111010000110011010110010
+Rs: 23, Rt: 8, Immed: 26290
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001110001001001001100010011
+Rs: 14, Rt: 4, Immed: 37651
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111111111101101011000010110
+Rs: 31, Rt: 30, Immed: 54806
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001001010010100000001011110
+Rs: 9, Rt: 9, Immed: 16478
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101000101101001001000001101
+Rs: 8, Rt: 22, Immed: 37389
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100011010101011110000000101
+Rs: 3, Rt: 10, Immed: 48133
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001100010000011100001110111
+Rs: 12, Rt: 8, Immed: 14455
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110111011011000001001001000
+Rs: 23, Rt: 13, Immed: 33352
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111110001100110011100111010
+Rs: 30, Rt: 6, Immed: 26426
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110100100010000010111111011
+Rs: 20, Rt: 17, Immed: 1531
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001100111101110110111000111
+Rs: 12, Rt: 30, Immed: 60871
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000101010101000011000010111
+Rs: 5, Rt: 10, Immed: 34327
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000001111100011100110111101
+Rs: 1, Rt: 30, Immed: 14781
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111111010010111010011110010
+Rs: 31, Rt: 9, Immed: 29938
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100010110111100001100110101
+Rs: 2, Rt: 27, Immed: 49973
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101000100011010010011000001
+Rs: 8, Rt: 17, Immed: 42177
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111110001010100101001111111
+Rs: 30, Rt: 5, Immed: 19071
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101111010001011000111100001
+Rs: 15, Rt: 8, Immed: 45537
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001111011010110000011010111
+Rs: 15, Rt: 13, Immed: 24791
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111001011010001001010001001
+Rs: 25, Rt: 13, Immed: 4745
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010110111001001010111101011
+Rs: 22, Rt: 28, Immed: 38379
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111011000000011011100110010
+Rs: 27, Rt: 0, Immed: 14130
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100011110010100001000100110
+Rs: 3, Rt: 25, Immed: 16934
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111110100000110100111100111
+Rs: 30, Rt: 16, Immed: 27111
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011110001111111000011111110
+Rs: 30, Rt: 7, Immed: 61694
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010011000100111101110101000
+Rs: 19, Rt: 2, Immed: 31656
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011010100010111110111011110
+Rs: 26, Rt: 17, Immed: 32222
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101010101011001110000001010
+Rs: 10, Rt: 21, Immed: 39946
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010111110011011101110101101
+Rs: 23, Rt: 25, Immed: 48045
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110000011111000000001111110
+Rs: 16, Rt: 15, Immed: 32894
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111001010010101101100110100
+Rs: 25, Rt: 9, Immed: 23348
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111111010110100010100001100
+Rs: 31, Rt: 11, Immed: 17676
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110100100001111000111110001
+Rs: 20, Rt: 16, Immed: 61937
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100110110011001111010011001
+Rs: 6, Rt: 25, Immed: 40601
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111111010111001111111011100
+Rs: 31, Rt: 11, Immed: 40924
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000001101110011110001000110
+Rs: 1, Rt: 23, Immed: 15430
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111101101000001011100100010
+Rs: 29, Rt: 20, Immed: 5922
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000000011101001111010010101
+Rs: 0, Rt: 14, Immed: 40597
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110001101100110001001111011
+Rs: 17, Rt: 22, Immed: 25211
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100000110001010010100111110
+Rs: 0, Rt: 24, Immed: 42302
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100001100000100000101100111
+Rs: 1, Rt: 16, Immed: 16743
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010100100001100000000111110
+Rs: 20, Rt: 16, Immed: 49214
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010111100010110100111101001
+Rs: 23, Rt: 17, Immed: 27113
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111101100101111010100001011
+Rs: 29, Rt: 18, Immed: 62731
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101110000001001111010010111
+Rs: 14, Rt: 0, Immed: 40599
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101110110001100010000001011
+Rs: 14, Rt: 24, Immed: 50187
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101101100001010011011111111
+Rs: 13, Rt: 16, Immed: 42751
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110101111001101011001101011
+Rs: 21, Rt: 28, Immed: 54891
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011000011000001101001011101
+Rs: 24, Rt: 12, Immed: 6749
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111110010000110001110010100
+Rs: 30, Rt: 8, Immed: 25492
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010000110000100010111011111
+Rs: 16, Rt: 24, Immed: 17887
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100000010001101111101101110
+Rs: 0, Rt: 8, Immed: 57198
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011011101010001101001010101
+Rs: 27, Rt: 21, Immed: 6741
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111000010000011001100000000
+Rs: 24, Rt: 8, Immed: 13056
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100101111011100000001001011
+Rs: 5, Rt: 29, Immed: 49227
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101111011110000011101011100
+Rs: 15, Rt: 15, Immed: 1884
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011001001011101111000110111
+Rs: 25, Rt: 5, Immed: 56887
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111011110110000001111010001
+Rs: 27, Rt: 27, Immed: 977
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110100111010111101111110000
+Rs: 20, Rt: 29, Immed: 31728
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100110011011111100110000011
+Rs: 6, Rt: 13, Immed: 63875
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101010011011110011110011011
+Rs: 10, Rt: 13, Immed: 59291
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110101011110010001001100101
+Rs: 21, Rt: 15, Immed: 8805
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101111010101110100101000001
+Rs: 15, Rt: 10, Immed: 59713
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101011011000111011111110001
+Rs: 11, Rt: 12, Immed: 30705
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111001011101011110001100000
+Rs: 25, Rt: 14, Immed: 48224
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111100011100110101101110010
+Rs: 28, Rt: 14, Immed: 27506
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011101110111010010100010010
+Rs: 29, Rt: 27, Immed: 42258
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010011100000110100100100000
+Rs: 19, Rt: 16, Immed: 26912
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101000100100101101111110110
+Rs: 8, Rt: 18, Immed: 23542
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111011110001111111101010010
+Rs: 27, Rt: 24, Immed: 65362
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010110101111111101100000001
+Rs: 22, Rt: 23, Immed: 64257
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111001101101110100110001000
+Rs: 25, Rt: 22, Immed: 59784
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100100000001001001000111110
+Rs: 4, Rt: 0, Immed: 37438
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101110000000100010111010101
+Rs: 14, Rt: 0, Immed: 17877
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000111001110010100111110001
+Rs: 7, Rt: 7, Immed: 10737
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101010100001101101110101011
+Rs: 10, Rt: 16, Immed: 56235
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101111100111101000001011101
+Rs: 15, Rt: 19, Immed: 53341
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110101001101011010111101000
+Rs: 21, Rt: 6, Immed: 46568
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100111011111101110000000110
+Rs: 7, Rt: 15, Immed: 56326
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010110100111110001100011101
+Rs: 22, Rt: 19, Immed: 58141
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111010110001101000000011011
+Rs: 26, Rt: 24, Immed: 53275
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000111011100011101100101100
+Rs: 7, Rt: 14, Immed: 15148
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111101010001000101010010101
+Rs: 29, Rt: 8, Immed: 35477
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001110110001101010011001100
+Rs: 14, Rt: 24, Immed: 54476
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101010001000111010111101000
+Rs: 10, Rt: 4, Immed: 30184
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111110110000111110111100110
+Rs: 30, Rt: 24, Immed: 32230
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110010010100101100100110011
+Rs: 18, Rt: 10, Immed: 22835
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101101111111011000001100111
+Rs: 13, Rt: 31, Immed: 45159
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111101001011110101101011111
+Rs: 29, Rt: 5, Immed: 60255
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100011000001000010110100010
+Rs: 3, Rt: 0, Immed: 34210
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000100001100101110110011101
+Rs: 4, Rt: 6, Immed: 23965
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001000101000110001000110010
+Rs: 8, Rt: 20, Immed: 25138
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000101101101000111000100110
+Rs: 5, Rt: 22, Immed: 36390
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101101000100101010011111010
+Rs: 13, Rt: 2, Immed: 21754
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100010100010001100100101000
+Rs: 2, Rt: 17, Immed: 6440
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111110111000101100011101100
+Rs: 30, Rt: 28, Immed: 22764
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010101011000101000111110110
+Rs: 21, Rt: 12, Immed: 20982
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111101001001001011110011000
+Rs: 29, Rt: 4, Immed: 38808
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011111010011001010100011100
+Rs: 31, Rt: 9, Immed: 38172
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001100001111111011101011010
+Rs: 12, Rt: 7, Immed: 63322
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001000011000000011110011111
+Rs: 8, Rt: 12, Immed: 1951
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010011001000000010101110100
+Rs: 19, Rt: 4, Immed: 1396
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111101111101000000000001111
+Rs: 29, Rt: 30, Immed: 32783
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010111011111010010101100001
+Rs: 23, Rt: 15, Immed: 42337
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101001000010000011110000111
+Rs: 9, Rt: 1, Immed: 1927
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000100010011100111011101110
+Rs: 4, Rt: 9, Immed: 52974
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111001000000000000100101010
+Rs: 25, Rt: 0, Immed: 298
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010001000010000011110101010
+Rs: 17, Rt: 1, Immed: 1962
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111010011001000010110001101
+Rs: 26, Rt: 12, Immed: 34189
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101100001111000010100001000
+Rs: 12, Rt: 7, Immed: 34056
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111100001000100110011011110
+Rs: 28, Rt: 4, Immed: 19678
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101100110011101011110110111
+Rs: 12, Rt: 25, Immed: 55223
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001000111101110111011101010
+Rs: 8, Rt: 30, Immed: 61162
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000011101110011001111110110
+Rs: 3, Rt: 23, Immed: 13302
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101100010101011101111001110
+Rs: 12, Rt: 10, Immed: 48078
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100101000001111101000010010
+Rs: 5, Rt: 0, Immed: 64018
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111001100100110001101000010
+Rs: 25, Rt: 18, Immed: 25410
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000111010111001111111010000
+Rs: 7, Rt: 11, Immed: 40912
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100111111000111100100011000
+Rs: 7, Rt: 28, Immed: 31000
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101010100111001011100100001
+Rs: 10, Rt: 19, Immed: 38689
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101100101100000100110111101
+Rs: 12, Rt: 22, Immed: 2493
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000000101110011000011000010
+Rs: 0, Rt: 23, Immed: 12482
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100110101011100110001101101
+Rs: 6, Rt: 21, Immed: 52333
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001000110110111111101010001
+Rs: 8, Rt: 27, Immed: 32593
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101010101001001110001101111
+Rs: 10, Rt: 20, Immed: 40047
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110000010111011101101100111
+Rs: 16, Rt: 11, Immed: 47975
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111010010111110000101011111
+Rs: 26, Rt: 11, Immed: 57695
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110101101110011111100010001
+Rs: 21, Rt: 23, Immed: 16145
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101011101101110011010100110
+Rs: 11, Rt: 22, Immed: 59046
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101010001110000011000110010
+Rs: 10, Rt: 7, Immed: 1586
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011100111010101101100111010
+Rs: 28, Rt: 29, Immed: 23354
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000111011011011110111010100
+Rs: 7, Rt: 13, Immed: 48596
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100100001100000100111101110
+Rs: 4, Rt: 6, Immed: 2542
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100110001110001001100101011
+Rs: 6, Rt: 7, Immed: 4907
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101010110100101011100101010
+Rs: 10, Rt: 26, Immed: 22314
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111100011000101010100000000
+Rs: 28, Rt: 12, Immed: 21760
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101010100010010011101010111
+Rs: 10, Rt: 17, Immed: 10071
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011111101111100110000110011
+Rs: 31, Rt: 23, Immed: 52275
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111001110111100111111000101
+Rs: 25, Rt: 27, Immed: 53189
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101001111000000111110111011
+Rs: 9, Rt: 28, Immed: 4027
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111011110111110111101100011
+Rs: 27, Rt: 27, Immed: 61283
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110111111100011000110100011
+Rs: 23, Rt: 30, Immed: 12707
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100010001111001111010111101
+Rs: 2, Rt: 7, Immed: 40637
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110100010000010101101011011
+Rs: 20, Rt: 8, Immed: 11099
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001001100111011011011111011
+Rs: 9, Rt: 19, Immed: 46843
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011000000000111100000101010
+Rs: 24, Rt: 0, Immed: 30762
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101010010000011110110011001
+Rs: 10, Rt: 8, Immed: 15769
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011000001001111010111000011
+Rs: 24, Rt: 4, Immed: 62915
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110000100010111101111001001
+Rs: 16, Rt: 17, Immed: 31689
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110001010110101111101001010
+Rs: 17, Rt: 11, Immed: 24394
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111001110111111101100001010
+Rs: 25, Rt: 27, Immed: 64266
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100110010001101000110101010
+Rs: 6, Rt: 8, Immed: 53674
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000110010001101001100011100
+Rs: 6, Rt: 8, Immed: 54044
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100111100101101110010111101
+Rs: 7, Rt: 18, Immed: 56509
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100011101001110111010100011
+Rs: 3, Rt: 20, Immed: 61091
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110000011111101001101000011
+Rs: 16, Rt: 15, Immed: 54083
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101110101011011111000001010
+Rs: 14, Rt: 21, Immed: 48650
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100010001001110110110101101
+Rs: 2, Rt: 4, Immed: 60845
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111000001111100010111000111
+Rs: 24, Rt: 7, Immed: 50631
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110110010110011111100011100
+Rs: 22, Rt: 11, Immed: 16156
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010100000101001011000111001
+Rs: 20, Rt: 2, Immed: 38457
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100001010110101010110001010
+Rs: 1, Rt: 11, Immed: 21898
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110101000010110000101101001
+Rs: 21, Rt: 1, Immed: 24937
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101111011110011110000010111
+Rs: 15, Rt: 15, Immed: 15383
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011001110110110010000001011
+Rs: 25, Rt: 27, Immed: 25611
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011101100010000101010101100
+Rs: 29, Rt: 17, Immed: 2732
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110101010110011000110000010
+Rs: 21, Rt: 11, Immed: 12674
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111001110001101001001001100
+Rs: 25, Rt: 24, Immed: 53836
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101011001110001010101111011
+Rs: 11, Rt: 7, Immed: 5499
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101000110110010010001111101
+Rs: 8, Rt: 27, Immed: 9341
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111100110000100001111101111
+Rs: 28, Rt: 24, Immed: 17391
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110010001101100000001110001
+Rs: 18, Rt: 6, Immed: 49265
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011100100011101110111001000
+Rs: 28, Rt: 17, Immed: 56776
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010001001010011000010110111
+Rs: 17, Rt: 5, Immed: 12471
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110110001101011110010001010
+Rs: 22, Rt: 6, Immed: 48266
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110110111010110000000000110
+Rs: 22, Rt: 29, Immed: 24582
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101110001010101010011010000
+Rs: 14, Rt: 5, Immed: 21712
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110010010010100000101010100
+Rs: 18, Rt: 9, Immed: 16724
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011101001011011101111111111
+Rs: 29, Rt: 5, Immed: 48127
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001100100001000100010010111
+Rs: 12, Rt: 16, Immed: 34967
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101011110100010010101011000
+Rs: 11, Rt: 26, Immed: 9560
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010010101100001010001110101
+Rs: 18, Rt: 22, Immed: 5237
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101110010001010001010001000
+Rs: 14, Rt: 8, Immed: 41608
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111100011110111011111100101
+Rs: 28, Rt: 15, Immed: 30693
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101001000000100001111001001
+Rs: 9, Rt: 0, Immed: 17353
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010100101111101000011010110
+Rs: 20, Rt: 23, Immed: 53462
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111001010110001101000000100
+Rs: 25, Rt: 11, Immed: 6660
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101101001110010011101111110
+Rs: 13, Rt: 7, Immed: 10110
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000001110110111110101100101
+Rs: 1, Rt: 27, Immed: 32101
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111010011110011001110011111
+Rs: 26, Rt: 15, Immed: 13215
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111100001010110001000111011
+Rs: 28, Rt: 5, Immed: 25147
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100000110101111010110111010
+Rs: 0, Rt: 26, Immed: 62906
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101111001111101111101111010
+Rs: 15, Rt: 7, Immed: 57210
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100100000000001010010101100
+Rs: 4, Rt: 0, Immed: 5292
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110011000100110101000001010
+Rs: 19, Rt: 2, Immed: 27146
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111111011110010011011010101
+Rs: 31, Rt: 15, Immed: 9941
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101011000111101110000000011
+Rs: 11, Rt: 3, Immed: 56323
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111001011110000100011110110
+Rs: 25, Rt: 15, Immed: 2294
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111111010001101011011001011
+Rs: 31, Rt: 8, Immed: 54987
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001110010001011101011110111
+Rs: 14, Rt: 8, Immed: 47863
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100010110001101001011101010
+Rs: 2, Rt: 24, Immed: 53994
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000101101010010000000111110
+Rs: 5, Rt: 21, Immed: 8254
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101000110111111001001001110
+Rs: 8, Rt: 27, Immed: 62030
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101110110011000111100001010
+Rs: 14, Rt: 25, Immed: 36618
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111011100000011001100011010
+Rs: 27, Rt: 16, Immed: 13082
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100101110001001001110111000
+Rs: 5, Rt: 24, Immed: 37816
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011010100011110110100100011
+Rs: 26, Rt: 17, Immed: 60707
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110100001110001000100000010
+Rs: 20, Rt: 7, Immed: 4354
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010100011010000010010110010
+Rs: 20, Rt: 13, Immed: 1202
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010110111111111011100101001
+Rs: 22, Rt: 31, Immed: 63273
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101100110011000011101110101
+Rs: 12, Rt: 25, Immed: 34677
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101011000110000000101010100
+Rs: 11, Rt: 3, Immed: 340
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001010000011110101001101111
+Rs: 10, Rt: 1, Immed: 60015
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011101110100100100010011000
+Rs: 29, Rt: 26, Immed: 18584
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010101011001001111000000010
+Rs: 21, Rt: 12, Immed: 40450
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100000111100101000011101111
+Rs: 0, Rt: 30, Immed: 20719
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100011111001110011011011111
+Rs: 3, Rt: 28, Immed: 59103
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110111111110001100100010011
+Rs: 23, Rt: 31, Immed: 6419
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110101100111001000110110111
+Rs: 21, Rt: 19, Immed: 37303
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110001011010101110001000111
+Rs: 17, Rt: 13, Immed: 23623
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001101100000001000000001001
+Rs: 13, Rt: 16, Immed: 4105
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111111001110100010111000001
+Rs: 31, Rt: 7, Immed: 17857
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000111100110100011100011111
+Rs: 7, Rt: 19, Immed: 18207
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100111111101110000011010100
+Rs: 7, Rt: 30, Immed: 57556
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100111000000101000101101110
+Rs: 7, Rt: 0, Immed: 20846
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000111111110100101101001111
+Rs: 7, Rt: 31, Immed: 19279
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111001010110000101110001110
+Rs: 25, Rt: 11, Immed: 2958
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111111000110110100001010001
+Rs: 31, Rt: 3, Immed: 26705
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111001101011001001000010011
+Rs: 25, Rt: 21, Immed: 37395
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100110001010001101100001111
+Rs: 6, Rt: 5, Immed: 6927
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010001000110000011000111001
+Rs: 17, Rt: 3, Immed: 1593
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101101000010000011100101000
+Rs: 13, Rt: 1, Immed: 1832
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100110010100100100011110100
+Rs: 6, Rt: 10, Immed: 18676
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101110110101110001100011011
+Rs: 14, Rt: 26, Immed: 58139
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011111111001110101000000111
+Rs: 31, Rt: 28, Immed: 59911
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000010011000110011000100110
+Rs: 2, Rt: 12, Immed: 26150
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110101011011001100100111011
+Rs: 21, Rt: 13, Immed: 39227
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111111110001010011111101010
+Rs: 31, Rt: 24, Immed: 42986
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100111010100001010010001001
+Rs: 7, Rt: 10, Immed: 5257
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001001111011110011000011010
+Rs: 9, Rt: 29, Immed: 58906
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000011000111010100111100000
+Rs: 3, Rt: 3, Immed: 43488
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110100000110110011011001110
+Rs: 20, Rt: 3, Immed: 26318
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111101010101101111000111001
+Rs: 29, Rt: 10, Immed: 56889
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100011000001011111100101110
+Rs: 3, Rt: 0, Immed: 48942
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101100001111011110111011100
+Rs: 12, Rt: 7, Immed: 48604
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101101100010111111000011001
+Rs: 13, Rt: 17, Immed: 32281
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100010100010010101110111000
+Rs: 2, Rt: 17, Immed: 11192
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111110100001001011001000101
+Rs: 30, Rt: 16, Immed: 38469
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111111101001111011011010100
+Rs: 31, Rt: 20, Immed: 63188
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110011001011001101001111111
+Rs: 19, Rt: 5, Immed: 39551
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101100101101000100011010101
+Rs: 12, Rt: 22, Immed: 35029
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010111001010011111011110100
+Rs: 23, Rt: 5, Immed: 16116
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100111100001101000011010110
+Rs: 7, Rt: 16, Immed: 53462
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100110110101101010001100001
+Rs: 6, Rt: 26, Immed: 54369
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001100011000010110111110011
+Rs: 12, Rt: 12, Immed: 11763
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110011011101111000111111100
+Rs: 19, Rt: 14, Immed: 61948
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001001011111011011010011010
+Rs: 9, Rt: 15, Immed: 46746
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110000010110110110000000100
+Rs: 16, Rt: 11, Immed: 27652
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011010010101011001111000110
+Rs: 26, Rt: 10, Immed: 46022
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101010111100101100001010010
+Rs: 10, Rt: 30, Immed: 22610
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100110000000111001001100000
+Rs: 6, Rt: 0, Immed: 29280
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100001100011110110110011110
+Rs: 1, Rt: 17, Immed: 60830
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100011111101111000110011010
+Rs: 3, Rt: 30, Immed: 61850
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000101011011001101000100101
+Rs: 5, Rt: 13, Immed: 39461
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101111011011111011001001000
+Rs: 15, Rt: 13, Immed: 63048
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111010110111110000111111011
+Rs: 26, Rt: 27, Immed: 57851
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111100111100000010011010110
+Rs: 28, Rt: 30, Immed: 1238
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110010111000111110011101100
+Rs: 18, Rt: 28, Immed: 31980
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101100001000111100100010110
+Rs: 12, Rt: 4, Immed: 30998
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110100010011101110011001010
+Rs: 20, Rt: 9, Immed: 56522
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111010011110001010001000011
+Rs: 26, Rt: 15, Immed: 5187
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100110100111100001011001100
+Rs: 6, Rt: 19, Immed: 49868
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100111101000001100111000111
+Rs: 7, Rt: 20, Immed: 6599
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100001010001001101101100100
+Rs: 1, Rt: 8, Immed: 39780
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011011000000101011100010101
+Rs: 27, Rt: 0, Immed: 22293
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111111010000000010101101101
+Rs: 31, Rt: 8, Immed: 1389
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011010010101000011011110001
+Rs: 26, Rt: 10, Immed: 34545
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010000010000110111010000011
+Rs: 16, Rt: 8, Immed: 28291
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111101111101100101100000111
+Rs: 29, Rt: 30, Immed: 51975
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011010100011000111011010001
+Rs: 26, Rt: 17, Immed: 36561
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110001110001011001001110000
+Rs: 17, Rt: 24, Immed: 45680
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000000101101001100111100110
+Rs: 0, Rt: 22, Immed: 39398
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000110111010101101011000100
+Rs: 6, Rt: 29, Immed: 23236
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111010010000010001101011010
+Rs: 26, Rt: 8, Immed: 9050
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111000111110100000010000001
+Rs: 24, Rt: 31, Immed: 16513
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110111010010001100000001000
+Rs: 23, Rt: 9, Immed: 6152
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111110101011010111111001111
+Rs: 30, Rt: 21, Immed: 45007
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000001100010100011000110110
+Rs: 1, Rt: 17, Immed: 17974
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011110010000100010011101101
+Rs: 30, Rt: 8, Immed: 17645
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110100000100101101001010001
+Rs: 20, Rt: 2, Immed: 23121
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101101011101110000101000110
+Rs: 13, Rt: 14, Immed: 57670
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111101000110110100000000101
+Rs: 29, Rt: 3, Immed: 26629
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000011110111010010101011101
+Rs: 3, Rt: 27, Immed: 42333
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000001001100010011100111111
+Rs: 1, Rt: 6, Immed: 10047
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111010000010101100010111001
+Rs: 26, Rt: 1, Immed: 22713
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100100001111000101111010100
+Rs: 4, Rt: 7, Immed: 35796
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010100101011100000011011010
+Rs: 20, Rt: 21, Immed: 49370
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010010101011010000111011100
+Rs: 18, Rt: 21, Immed: 41436
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101111110000001010110011111
+Rs: 15, Rt: 24, Immed: 5535
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011010101011001101110010010
+Rs: 26, Rt: 21, Immed: 39826
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100101101110011010110011111
+Rs: 5, Rt: 23, Immed: 13727
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010001100011111100100000111
+Rs: 17, Rt: 17, Immed: 63751
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010001101000011100001001000
+Rs: 17, Rt: 20, Immed: 14408
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111000011100101011111110010
+Rs: 24, Rt: 14, Immed: 22514
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011111000010010000111101110
+Rs: 31, Rt: 1, Immed: 8686
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011011110001000011000111011
+Rs: 27, Rt: 24, Immed: 34363
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110000010010111000100101100
+Rs: 16, Rt: 9, Immed: 28972
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110001101010011001010011000
+Rs: 17, Rt: 21, Immed: 12952
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101001100001010000011111111
+Rs: 9, Rt: 16, Immed: 41215
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110100001011001000101100101
+Rs: 20, Rt: 5, Immed: 37221
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110101011010110101100001001
+Rs: 21, Rt: 13, Immed: 27401
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101110111110110011010000101
+Rs: 14, Rt: 31, Immed: 26245
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010110111010000000101000101
+Rs: 22, Rt: 29, Immed: 325
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010101010100101001100011000
+Rs: 21, Rt: 10, Immed: 21272
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110111111100100010001000011
+Rs: 23, Rt: 30, Immed: 17475
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111110111110000101100101001
+Rs: 30, Rt: 31, Immed: 2857
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101110100101100111010101111
+Rs: 14, Rt: 18, Immed: 52911
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101000101011010111001000101
+Rs: 8, Rt: 21, Immed: 44613
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011010110101101101111000110
+Rs: 26, Rt: 26, Immed: 56262
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001011000111011100100010011
+Rs: 11, Rt: 3, Immed: 47379
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010100101111111111011101001
+Rs: 20, Rt: 23, Immed: 65257
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010010111010111111100101000
+Rs: 18, Rt: 29, Immed: 32552
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111010111110001110101011000
+Rs: 26, Rt: 31, Immed: 7512
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101011001010000011000100001
+Rs: 11, Rt: 5, Immed: 1569
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110110101010111100011100000
+Rs: 22, Rt: 21, Immed: 30944
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111001011111011110011110011
+Rs: 25, Rt: 15, Immed: 48371
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011100100000101101110110101
+Rs: 28, Rt: 16, Immed: 23477
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111000101100001100100010101
+Rs: 24, Rt: 22, Immed: 6421
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100010111101110001001110100
+Rs: 2, Rt: 30, Immed: 57972
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000101010010011010100111101
+Rs: 5, Rt: 9, Immed: 13629
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001000111111100001110101100
+Rs: 8, Rt: 31, Immed: 50092
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111001111111111001001111011
+Rs: 25, Rt: 31, Immed: 62075
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110100100001110101110101010
+Rs: 20, Rt: 16, Immed: 60330
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100111000110010011001000000
+Rs: 7, Rt: 3, Immed: 9792
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100110101101110001111101111
+Rs: 6, Rt: 22, Immed: 58351
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111101101111101010111001100
+Rs: 29, Rt: 23, Immed: 54732
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110011011010101010110001001
+Rs: 19, Rt: 13, Immed: 21897
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001010100111000110010000101
+Rs: 10, Rt: 19, Immed: 35973
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111001001001100101110011000
+Rs: 25, Rt: 4, Immed: 52120
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110010111111110111000010011
+Rs: 18, Rt: 31, Immed: 60947
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001000001101001001000111101
+Rs: 8, Rt: 6, Immed: 37437
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100111011111010111010100000
+Rs: 7, Rt: 15, Immed: 44704
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111011100110100111111011101
+Rs: 27, Rt: 19, Immed: 20445
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010101110101001011011000001
+Rs: 21, Rt: 26, Immed: 38593
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100011010000111101100100111
+Rs: 3, Rt: 8, Immed: 31527
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101011011111000100000001101
+Rs: 11, Rt: 15, Immed: 34829
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111101111111011001111010011
+Rs: 29, Rt: 31, Immed: 46035
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111100101010111010100111100
+Rs: 28, Rt: 21, Immed: 30012
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010111010010100111011010001
+Rs: 23, Rt: 9, Immed: 20177
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000001011001011001100010010
+Rs: 1, Rt: 12, Immed: 45842
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111010001000100101001111100
+Rs: 26, Rt: 4, Immed: 19068
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000000101011001111001100110
+Rs: 0, Rt: 21, Immed: 40550
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101011100101110111000111100
+Rs: 11, Rt: 18, Immed: 60988
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010010110000000010110110111
+Rs: 18, Rt: 24, Immed: 1463
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110100111100101000100100001
+Rs: 20, Rt: 30, Immed: 20769
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010111111101000100001100100
+Rs: 23, Rt: 30, Immed: 34916
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000011110111111011010100010
+Rs: 3, Rt: 27, Immed: 63138
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110011100110010001110110000
+Rs: 19, Rt: 19, Immed: 9136
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001011011110010110010100000
+Rs: 11, Rt: 15, Immed: 11424
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101101100000100110010010101
+Rs: 13, Rt: 16, Immed: 19605
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111110000101101110001011111
+Rs: 30, Rt: 2, Immed: 56415
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111111011010101101110011001
+Rs: 31, Rt: 13, Immed: 23449
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100111010011010001111011001
+Rs: 7, Rt: 9, Immed: 41945
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000111111010111111110110011
+Rs: 7, Rt: 29, Immed: 32691
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101000011100110011110011010
+Rs: 8, Rt: 14, Immed: 26522
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101010110110100001001101111
+Rs: 10, Rt: 27, Immed: 17007
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110101100110101001110001111
+Rs: 21, Rt: 19, Immed: 21391
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001010100001110001111001101
+Rs: 10, Rt: 16, Immed: 58317
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010110000011011100000000011
+Rs: 22, Rt: 1, Immed: 47107
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111111000010111100110001010
+Rs: 31, Rt: 1, Immed: 31114
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111100011111000011010011100
+Rs: 28, Rt: 15, Immed: 34460
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101011001100011111111110100
+Rs: 11, Rt: 6, Immed: 16372
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011111010110100000101001101
+Rs: 31, Rt: 11, Immed: 16717
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011111010111001111101100110
+Rs: 31, Rt: 11, Immed: 40806
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110110010111110000010000001
+Rs: 22, Rt: 11, Immed: 57473
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100101110100011101000111001
+Rs: 5, Rt: 26, Immed: 14905
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100000110001110000100111100
+Rs: 0, Rt: 24, Immed: 57660
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110110111000110110010101010
+Rs: 22, Rt: 28, Immed: 27818
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101110101001000101011011111
+Rs: 14, Rt: 20, Immed: 35551
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100000101111101110111111010
+Rs: 0, Rt: 23, Immed: 56826
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101101000011101000111001011
+Rs: 13, Rt: 1, Immed: 53707
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111110101100000001011000000
+Rs: 30, Rt: 22, Immed: 704
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101110011000111101111010010
+Rs: 14, Rt: 12, Immed: 31698
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010101100011100010110010101
+Rs: 21, Rt: 17, Immed: 50581
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101001101000111001011111011
+Rs: 9, Rt: 20, Immed: 29435
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101001110101001010110001001
+Rs: 9, Rt: 26, Immed: 38281
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000011010111110010110000101
+Rs: 3, Rt: 11, Immed: 58757
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000011001000011101100110010
+Rs: 3, Rt: 4, Immed: 15154
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001111011010110011111101010
+Rs: 15, Rt: 13, Immed: 26602
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100010011011000101010111001
+Rs: 2, Rt: 13, Immed: 35513
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111110110011100111101100001
+Rs: 30, Rt: 25, Immed: 53089
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110111101010011111000011001
+Rs: 23, Rt: 21, Immed: 15897
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000100001000001111001010001
+Rs: 4, Rt: 4, Immed: 7761
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111011100000011111110000010
+Rs: 27, Rt: 16, Immed: 16258
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111110110111101011111000001
+Rs: 30, Rt: 27, Immed: 55233
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111001110101101010111111000
+Rs: 25, Rt: 26, Immed: 54776
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100101001000000001101100010
+Rs: 5, Rt: 4, Immed: 866
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110011111110111100111010101
+Rs: 19, Rt: 31, Immed: 31189
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110011000011111101010100010
+Rs: 19, Rt: 1, Immed: 64162
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000000110001101111111111101
+Rs: 0, Rt: 24, Immed: 57341
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101000001100010110100001110
+Rs: 8, Rt: 6, Immed: 11534
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111110110110000000000001001
+Rs: 30, Rt: 27, Immed: 9
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110101001101111010001100100
+Rs: 21, Rt: 6, Immed: 62564
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111010001111100101000001100
+Rs: 26, Rt: 7, Immed: 51724
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111101100110100110011000000
+Rs: 29, Rt: 19, Immed: 19648
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011110011110001101100100110
+Rs: 30, Rt: 15, Immed: 6950
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110101110000001111001111110
+Rs: 21, Rt: 24, Immed: 7806
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100000010011011001111010100
+Rs: 0, Rt: 9, Immed: 46036
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100010010110111101000100110
+Rs: 2, Rt: 11, Immed: 31270
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101110000111011001101100101
+Rs: 14, Rt: 3, Immed: 45925
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110010101001110110100011011
+Rs: 18, Rt: 20, Immed: 60699
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110111101100010000110000011
+Rs: 23, Rt: 22, Immed: 8579
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100010111010000001011101110
+Rs: 2, Rt: 29, Immed: 750
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001010001100110111010111100
+Rs: 10, Rt: 6, Immed: 28348
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100010000100101011101101000
+Rs: 2, Rt: 2, Immed: 22376
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111100011101100001010000100
+Rs: 28, Rt: 14, Immed: 49796
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100110010101001110010010111
+Rs: 6, Rt: 10, Immed: 40087
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111100101011001010000100010
+Rs: 28, Rt: 21, Immed: 37922
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010001100000101010111001011
+Rs: 17, Rt: 16, Immed: 21963
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101000100000111001000110001
+Rs: 8, Rt: 16, Immed: 29233
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100001111100011011000110011
+Rs: 1, Rt: 30, Immed: 13875
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011001111111110111110010001
+Rs: 25, Rt: 31, Immed: 61329
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100000110101001111011010010
+Rs: 0, Rt: 26, Immed: 40658
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001011100001001110101110000
+Rs: 11, Rt: 16, Immed: 40304
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011001100111010100010101111
+Rs: 25, Rt: 19, Immed: 43183
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110111100000010001100111010
+Rs: 23, Rt: 16, Immed: 9018
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000001001111110101101101110
+Rs: 1, Rt: 7, Immed: 60270
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100001110100100001001000100
+Rs: 1, Rt: 26, Immed: 16964
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011100000111001000111010010
+Rs: 28, Rt: 3, Immed: 37330
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011001001111111111111111000
+Rs: 25, Rt: 7, Immed: 65528
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000100100111010011101000101
+Rs: 4, Rt: 19, Immed: 42821
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110101011001010001111000101
+Rs: 21, Rt: 12, Immed: 41925
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111000111010011110011110101
+Rs: 24, Rt: 29, Immed: 15605
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100101000001100111011111001
+Rs: 5, Rt: 0, Immed: 52985
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100010001111100010111001000
+Rs: 2, Rt: 7, Immed: 50632
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001010000110111110000011111
+Rs: 10, Rt: 3, Immed: 31775
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111001110100111100111111010
+Rs: 25, Rt: 26, Immed: 31226
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011110000000001101111001100
+Rs: 30, Rt: 0, Immed: 7116
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100111101101110010010001110
+Rs: 7, Rt: 22, Immed: 58510
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101011011011001111100011101
+Rs: 11, Rt: 13, Immed: 40733
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101110110000000110010101101
+Rs: 14, Rt: 24, Immed: 3245
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101111101000001011001001110
+Rs: 15, Rt: 20, Immed: 5710
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000111010001000010010011001
+Rs: 7, Rt: 8, Immed: 33945
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100011110100010010010111010
+Rs: 3, Rt: 26, Immed: 9402
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111011110101000000011011110
+Rs: 27, Rt: 26, Immed: 32990
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111101011100011101100110001
+Rs: 29, Rt: 14, Immed: 15153
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100100001111101010010101100
+Rs: 4, Rt: 7, Immed: 54444
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101010111011101001100011111
+Rs: 10, Rt: 29, Immed: 54047
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110111000001111101110111000
+Rs: 23, Rt: 0, Immed: 64440
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100000110110010110011000011
+Rs: 0, Rt: 27, Immed: 11459
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110011001111000101000000011
+Rs: 19, Rt: 7, Immed: 35331
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101110110110100111001010111
+Rs: 14, Rt: 27, Immed: 20055
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001110101110000101111111011
+Rs: 14, Rt: 23, Immed: 3067
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011110011000110101010111001
+Rs: 30, Rt: 12, Immed: 27321
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100001101101001100100011111
+Rs: 1, Rt: 22, Immed: 39199
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110110110100001010011000000
+Rs: 22, Rt: 26, Immed: 5312
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111011011011110101000110101
+Rs: 27, Rt: 13, Immed: 59957
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011001001110001111010010010
+Rs: 25, Rt: 7, Immed: 7826
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100001000100010000001100101
+Rs: 1, Rt: 2, Immed: 8293
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100110110101110000000111001
+Rs: 6, Rt: 26, Immed: 57401
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100100111100011000010000010
+Rs: 4, Rt: 30, Immed: 12418
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101101100010010001010100011
+Rs: 13, Rt: 17, Immed: 8867
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100110110100010000101011111
+Rs: 6, Rt: 26, Immed: 8543
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011111100101110110011100001
+Rs: 31, Rt: 18, Immed: 60641
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110110011111000000011101101
+Rs: 22, Rt: 15, Immed: 33005
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110101011000000110010000000
+Rs: 21, Rt: 12, Immed: 3200
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100000011001011000100100001
+Rs: 0, Rt: 12, Immed: 45345
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111100001100010011011000011
+Rs: 28, Rt: 6, Immed: 9923
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101000000001100101000000110
+Rs: 8, Rt: 0, Immed: 51718
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111000110001010000100111111
+Rs: 24, Rt: 24, Immed: 41279
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101111110000000111001111011
+Rs: 15, Rt: 24, Immed: 3707
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110110000111011110010001001
+Rs: 22, Rt: 3, Immed: 48265
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010001010001110111011101100
+Rs: 17, Rt: 8, Immed: 61164
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001000010110011111011101110
+Rs: 8, Rt: 11, Immed: 16110
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110000010000000101001011010
+Rs: 16, Rt: 8, Immed: 2650
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101001100101010010000000111
+Rs: 9, Rt: 18, Immed: 41991
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011001010100101110010111010
+Rs: 25, Rt: 10, Immed: 23738
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110110110110110101100100101
+Rs: 22, Rt: 27, Immed: 27429
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110011000101010000101011010
+Rs: 19, Rt: 2, Immed: 41306
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101101010010001010001111001
+Rs: 13, Rt: 9, Immed: 5241
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010100111100011011101111100
+Rs: 20, Rt: 30, Immed: 14204
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111000001011011110010001110
+Rs: 24, Rt: 5, Immed: 48270
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101001110111100011010010111
+Rs: 9, Rt: 27, Immed: 50839
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101101110110001011110111000
+Rs: 13, Rt: 27, Immed: 6072
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011111111010101001100100110
+Rs: 31, Rt: 29, Immed: 21286
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100001101100000010011111111
+Rs: 1, Rt: 22, Immed: 1279
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101101011100010000001111101
+Rs: 13, Rt: 14, Immed: 8317
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000000110001101010010110010
+Rs: 0, Rt: 24, Immed: 54450
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101010101111001111100010111
+Rs: 10, Rt: 23, Immed: 40727
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000111101010000011100000100
+Rs: 7, Rt: 21, Immed: 1796
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100100010111101110001111001
+Rs: 4, Rt: 11, Immed: 56441
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101011101001111111010011000
+Rs: 11, Rt: 20, Immed: 65176
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100011111011101111000011010
+Rs: 3, Rt: 29, Immed: 56858
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011101001011111100100110100
+Rs: 29, Rt: 5, Immed: 63796
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000011011001010101010100111
+Rs: 3, Rt: 12, Immed: 43687
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000101101011110111100011001
+Rs: 5, Rt: 21, Immed: 61209
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110001011011110111001110100
+Rs: 17, Rt: 13, Immed: 61044
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011000010111110001111111011
+Rs: 24, Rt: 11, Immed: 58363
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011110000110010110110010110
+Rs: 30, Rt: 3, Immed: 11670
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101101110010100011100010111
+Rs: 13, Rt: 25, Immed: 18199
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111110010011010101011100111
+Rs: 30, Rt: 9, Immed: 43751
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100101110000001110110010011
+Rs: 5, Rt: 24, Immed: 7571
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110110111000110000101111011
+Rs: 22, Rt: 28, Immed: 24955
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110110001111110000101000101
+Rs: 22, Rt: 7, Immed: 57669
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101010010100101110101010000
+Rs: 10, Rt: 10, Immed: 23888
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101000010111111111000110101
+Rs: 8, Rt: 11, Immed: 65077
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011100000111100000111010100
+Rs: 28, Rt: 3, Immed: 49620
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111000010011100101110010001
+Rs: 24, Rt: 9, Immed: 52113
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000110010100100011011100000
+Rs: 6, Rt: 10, Immed: 18144
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010000011110101101000111000
+Rs: 16, Rt: 15, Immed: 23096
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110001110110010100001011101
+Rs: 17, Rt: 27, Immed: 10333
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101000000001010010111010100
+Rs: 8, Rt: 0, Immed: 42452
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110111100000010000011000011
+Rs: 23, Rt: 16, Immed: 8387
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100110010011111101110111100
+Rs: 6, Rt: 9, Immed: 64444
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010101001011100110000101111
+Rs: 21, Rt: 5, Immed: 52271
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100100101000010110100110100
+Rs: 4, Rt: 20, Immed: 11572
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010001100111000100110000011
+Rs: 17, Rt: 19, Immed: 35203
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100100111101001001011100100
+Rs: 4, Rt: 30, Immed: 37604
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001011011100000110011010110
+Rs: 11, Rt: 14, Immed: 3286
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000110110000100011110110011
+Rs: 6, Rt: 24, Immed: 18355
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111011001001010101100011000
+Rs: 27, Rt: 4, Immed: 43800
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101101010011101011111101100
+Rs: 13, Rt: 9, Immed: 55276
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101001110010011010110101000
+Rs: 9, Rt: 25, Immed: 13736
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010000010000101001010001100
+Rs: 16, Rt: 8, Immed: 21132
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010111000110010111000111010
+Rs: 23, Rt: 3, Immed: 11834
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010101100000011111010000100
+Rs: 21, Rt: 16, Immed: 16004
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000100101010010111010000101
+Rs: 4, Rt: 21, Immed: 11909
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101010100110001000011000001
+Rs: 10, Rt: 19, Immed: 4289
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001010011011100001011110001
+Rs: 10, Rt: 13, Immed: 49905
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000011001101001000001101111
+Rs: 3, Rt: 6, Immed: 36975
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110110001101111011000101001
+Rs: 22, Rt: 6, Immed: 63017
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110010110100100001110111010
+Rs: 18, Rt: 26, Immed: 17338
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100110000100111000110100010
+Rs: 6, Rt: 2, Immed: 29090
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001110001101000101010110111
+Rs: 14, Rt: 6, Immed: 35511
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011100010110010110101000010
+Rs: 28, Rt: 11, Immed: 11586
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101001010000010000001111001
+Rs: 9, Rt: 8, Immed: 8313
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110000011101101100000101110
+Rs: 16, Rt: 14, Immed: 55342
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110111101010011001110000110
+Rs: 23, Rt: 21, Immed: 13190
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100011111101001100011110101
+Rs: 3, Rt: 30, Immed: 39157
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010001101000110100100001000
+Rs: 17, Rt: 20, Immed: 26888
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110101010010011101100111110
+Rs: 21, Rt: 9, Immed: 15166
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110010111100101110010100011
+Rs: 18, Rt: 30, Immed: 23715
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100001011010001000001011101
+Rs: 1, Rt: 13, Immed: 4189
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111101000000101101111001110
+Rs: 29, Rt: 0, Immed: 23502
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110111011110001101111100100
+Rs: 23, Rt: 15, Immed: 7140
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111010100111011011100100010
+Rs: 26, Rt: 19, Immed: 46882
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111100110100010000000011010
+Rs: 28, Rt: 26, Immed: 8218
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001111111010110001100110111
+Rs: 15, Rt: 29, Immed: 25399
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001001101110000100101011011
+Rs: 9, Rt: 23, Immed: 2395
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101010100011111110011101100
+Rs: 10, Rt: 17, Immed: 64748
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110111010111000100111010010
+Rs: 23, Rt: 11, Immed: 35282
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001110010111101010000011100
+Rs: 14, Rt: 11, Immed: 54300
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101110001111100111100110010
+Rs: 14, Rt: 7, Immed: 53042
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001110100001000011101101000
+Rs: 14, Rt: 16, Immed: 34664
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011010110000000001100101001
+Rs: 26, Rt: 24, Immed: 809
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101011111110001100010100011
+Rs: 11, Rt: 31, Immed: 6307
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111001111110100101100101001
+Rs: 25, Rt: 31, Immed: 19241
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001010000000100011001100000
+Rs: 10, Rt: 0, Immed: 18016
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101010110110000101110111000
+Rs: 10, Rt: 27, Immed: 3000
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100000000010011111110110000
+Rs: 0, Rt: 1, Immed: 16304
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100010001001110100110010110
+Rs: 2, Rt: 4, Immed: 59798
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010001110011101110110011110
+Rs: 17, Rt: 25, Immed: 56734
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110001100101111001011011100
+Rs: 17, Rt: 18, Immed: 62172
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101001110100100010111110010
+Rs: 9, Rt: 26, Immed: 17906
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000111110000001000111011001
+Rs: 7, Rt: 24, Immed: 4569
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101010101010011110111011110
+Rs: 10, Rt: 21, Immed: 15838
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110011101101100000101001001
+Rs: 19, Rt: 22, Immed: 49481
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111111010011000100010111000
+Rs: 31, Rt: 9, Immed: 35000
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000000101001110011011100001
+Rs: 0, Rt: 20, Immed: 59105
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111111100101101011010100010
+Rs: 31, Rt: 18, Immed: 54946
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010100111001011000001100011
+Rs: 20, Rt: 28, Immed: 45155
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001100010000011000100111110
+Rs: 12, Rt: 8, Immed: 12606
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101010011011010111011100110
+Rs: 10, Rt: 13, Immed: 44774
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001001011000010101101011010
+Rs: 9, Rt: 12, Immed: 11098
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111111000111010010110100101
+Rs: 31, Rt: 3, Immed: 42405
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011100000011001011001010100
+Rs: 28, Rt: 1, Immed: 38484
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111110010111011101100100010
+Rs: 30, Rt: 11, Immed: 47906
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010010101100101001010000010
+Rs: 18, Rt: 22, Immed: 21122
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111111100100001011000110000
+Rs: 31, Rt: 18, Immed: 5680
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110110000110011111001011100
+Rs: 22, Rt: 3, Immed: 15964
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100101010001011100101000001
+Rs: 5, Rt: 8, Immed: 47425
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010100000110110110111000011
+Rs: 20, Rt: 3, Immed: 28099
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110000010011101111111001000
+Rs: 16, Rt: 9, Immed: 57288
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010001001101110010110011001
+Rs: 17, Rt: 6, Immed: 58777
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010011100111101011001010101
+Rs: 19, Rt: 19, Immed: 54869
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010000000110111100101101010
+Rs: 16, Rt: 3, Immed: 31082
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101101111000110101101111111
+Rs: 13, Rt: 28, Immed: 27519
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100010011100000010110010100
+Rs: 2, Rt: 14, Immed: 1428
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111000001000101000101000100
+Rs: 24, Rt: 4, Immed: 20804
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110011010111100110010000011
+Rs: 19, Rt: 11, Immed: 52355
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100000001011011010101001001
+Rs: 0, Rt: 5, Immed: 46409
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001010000010101100111111111
+Rs: 10, Rt: 1, Immed: 23039
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011011011010010010100011010
+Rs: 27, Rt: 13, Immed: 9498
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101111111111001000010111110
+Rs: 15, Rt: 31, Immed: 37054
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110110001000001111100100101
+Rs: 22, Rt: 4, Immed: 7973
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110010001110010001010010111
+Rs: 18, Rt: 7, Immed: 8855
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111000010111101000111101010
+Rs: 24, Rt: 11, Immed: 53738
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101000101110101011001100001
+Rs: 8, Rt: 23, Immed: 22113
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011000111000011010000001001
+Rs: 24, Rt: 28, Immed: 13321
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110101110110001000100101001
+Rs: 21, Rt: 27, Immed: 4393
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001110011110110101010111000
+Rs: 14, Rt: 15, Immed: 27320
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011000110110111000100000111
+Rs: 24, Rt: 27, Immed: 28935
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101110110010100111011110000
+Rs: 14, Rt: 25, Immed: 20208
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111011001000010100010001010
+Rs: 27, Rt: 4, Immed: 10378
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101000110001111001111001001
+Rs: 8, Rt: 24, Immed: 62409
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101001010001100110001010101
+Rs: 9, Rt: 8, Immed: 52309
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111011101000011110101000100
+Rs: 27, Rt: 20, Immed: 15684
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001100010110100011110111100
+Rs: 12, Rt: 11, Immed: 18364
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101000000001000011010110011
+Rs: 8, Rt: 0, Immed: 34483
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001001110001000000001111100
+Rs: 9, Rt: 24, Immed: 32892
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000000011111000111111000010
+Rs: 0, Rt: 15, Immed: 36802
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011011001000011101010111010
+Rs: 27, Rt: 4, Immed: 15034
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111001110011011011010101110
+Rs: 25, Rt: 25, Immed: 46766
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101100001111101100011111110
+Rs: 12, Rt: 7, Immed: 55550
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011000110111110110110111101
+Rs: 24, Rt: 27, Immed: 60861
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010110010011101000101011001
+Rs: 22, Rt: 9, Immed: 53593
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001101111010000100001111101
+Rs: 13, Rt: 29, Immed: 2173
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110110100111001000110110100
+Rs: 22, Rt: 19, Immed: 37300
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000111110000000110011101101
+Rs: 7, Rt: 24, Immed: 3309
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100101010111011111000010101
+Rs: 5, Rt: 11, Immed: 48661
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111010111011101001100101010
+Rs: 26, Rt: 29, Immed: 54058
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111001101011110001010000110
+Rs: 25, Rt: 21, Immed: 57990
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100101010110010101001001110
+Rs: 5, Rt: 11, Immed: 10830
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011101011001000010001001010
+Rs: 29, Rt: 12, Immed: 33866
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111111001001000111000111011
+Rs: 31, Rt: 4, Immed: 36411
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100001101101001010011110111
+Rs: 1, Rt: 22, Immed: 38135
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110111010000001010011000110
+Rs: 23, Rt: 8, Immed: 5318
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000000110100101000110100001
+Rs: 0, Rt: 26, Immed: 20897
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101010101101010101010100010
+Rs: 10, Rt: 22, Immed: 43682
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111000011100110100101110010
+Rs: 24, Rt: 14, Immed: 26994
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110011101010010111011010110
+Rs: 19, Rt: 21, Immed: 11990
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101011001110100011101110110
+Rs: 11, Rt: 7, Immed: 18294
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010111011100001100111001111
+Rs: 23, Rt: 14, Immed: 6607
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111111100000000100111100111
+Rs: 31, Rt: 16, Immed: 2535
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101110000000010010110101001
+Rs: 14, Rt: 0, Immed: 9641
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111110110001011101100010100
+Rs: 30, Rt: 24, Immed: 47892
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110000100100101100111111011
+Rs: 16, Rt: 18, Immed: 23035
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111110101101110000011000011
+Rs: 30, Rt: 22, Immed: 57539
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000100000100010110101101101
+Rs: 4, Rt: 2, Immed: 11629
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110011000111011000100001100
+Rs: 19, Rt: 3, Immed: 45324
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011000000001011101001000011
+Rs: 24, Rt: 0, Immed: 47683
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000000011000110001010100110
+Rs: 0, Rt: 12, Immed: 25254
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100110111100100101010111100
+Rs: 6, Rt: 30, Immed: 19132
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100011010001000011011001110
+Rs: 3, Rt: 8, Immed: 34510
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110010111010010001000100000
+Rs: 18, Rt: 29, Immed: 8736
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111011000000001010010100110
+Rs: 27, Rt: 0, Immed: 5286
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010011001111111011011111001
+Rs: 19, Rt: 7, Immed: 63225
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101000110100010100000000000
+Rs: 8, Rt: 26, Immed: 10240
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010111110101101010010010010
+Rs: 23, Rt: 26, Immed: 54418
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110000001010000000110011010
+Rs: 16, Rt: 5, Immed: 410
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011111100011100010101010011
+Rs: 31, Rt: 17, Immed: 50515
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111101000101101110110001100
+Rs: 29, Rt: 2, Immed: 56716
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101011101111100000010100010
+Rs: 11, Rt: 23, Immed: 49314
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000111011111001011011000100
+Rs: 7, Rt: 15, Immed: 38596
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011101111101000000000101110
+Rs: 29, Rt: 30, Immed: 32814
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100101011101111011011000110
+Rs: 5, Rt: 14, Immed: 63174
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100011001100010001111010001
+Rs: 3, Rt: 6, Immed: 9169
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110111010100010011111000101
+Rs: 23, Rt: 10, Immed: 10181
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111111011110001011001010011
+Rs: 31, Rt: 15, Immed: 5715
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111110010101111010100110000
+Rs: 30, Rt: 10, Immed: 62768
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011000101100010100101101100
+Rs: 24, Rt: 22, Immed: 10604
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100101101100110011010000000
+Rs: 5, Rt: 22, Immed: 26240
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100010110101001110101110011
+Rs: 2, Rt: 26, Immed: 40307
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111111010010001001001010010
+Rs: 31, Rt: 9, Immed: 4690
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110101110100011000000001110
+Rs: 21, Rt: 26, Immed: 12302
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110100100111100010110000111
+Rs: 20, Rt: 19, Immed: 50567
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100000000010011001110100101
+Rs: 0, Rt: 1, Immed: 13221
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111010011011011001011000110
+Rs: 26, Rt: 13, Immed: 45766
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100101010110101111100111011
+Rs: 5, Rt: 11, Immed: 24379
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100110011000001001010100010
+Rs: 6, Rt: 12, Immed: 4770
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100101100111001011111100110
+Rs: 5, Rt: 19, Immed: 38886
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111000010001010000001001100
+Rs: 24, Rt: 8, Immed: 41036
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011000100000101001000111110
+Rs: 24, Rt: 16, Immed: 21054
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100101100100010101001100111
+Rs: 5, Rt: 18, Immed: 10855
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101111001000011010000101011
+Rs: 15, Rt: 4, Immed: 13355
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011011101011110100101001010
+Rs: 27, Rt: 21, Immed: 59722
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000111000111001101011101011
+Rs: 7, Rt: 3, Immed: 39659
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000001001010000010101000101
+Rs: 1, Rt: 5, Immed: 1349
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010101110010001101101001010
+Rs: 21, Rt: 25, Immed: 6986
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000110101101110011001010011
+Rs: 6, Rt: 22, Immed: 58963
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101111110101101010111100011
+Rs: 15, Rt: 26, Immed: 54755
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111101110101101101110010000
+Rs: 29, Rt: 26, Immed: 56208
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111011001111011100100110100
+Rs: 27, Rt: 7, Immed: 47412
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010010001000010100101111111
+Rs: 18, Rt: 4, Immed: 10623
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011010000001011101111111111
+Rs: 26, Rt: 0, Immed: 48127
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111000110110111111001010101
+Rs: 24, Rt: 27, Immed: 32341
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100101110101011000010001100
+Rs: 5, Rt: 26, Immed: 45196
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010110101110000100101010001
+Rs: 22, Rt: 23, Immed: 2385
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000011000010100111110001011
+Rs: 3, Rt: 1, Immed: 20363
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100101010010010101010110111
+Rs: 5, Rt: 9, Immed: 10935
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100000101101000111100001000
+Rs: 0, Rt: 22, Immed: 36616
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111100011010001000111101010
+Rs: 28, Rt: 13, Immed: 4586
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110100110000110001110100000
+Rs: 20, Rt: 24, Immed: 25504
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010100110010010000010111100
+Rs: 20, Rt: 25, Immed: 8380
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100100111110010000101101000
+Rs: 4, Rt: 31, Immed: 8552
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010101000011100111001000100
+Rs: 21, Rt: 1, Immed: 52804
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110010111111001010110100010
+Rs: 18, Rt: 31, Immed: 38306
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110000100101011101110010010
+Rs: 16, Rt: 18, Immed: 48018
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000000100011101101101100111
+Rs: 0, Rt: 17, Immed: 56167
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100111111011110111010001101
+Rs: 7, Rt: 29, Immed: 61069
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101101100011010100110110100
+Rs: 13, Rt: 17, Immed: 43444
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100010110011001010100011110
+Rs: 2, Rt: 25, Immed: 38174
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111101001000101001101111011
+Rs: 29, Rt: 4, Immed: 21371
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001011101101011110111101011
+Rs: 11, Rt: 22, Immed: 48619
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001100100011001001011010101
+Rs: 12, Rt: 17, Immed: 37589
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000010001100100111111110010
+Rs: 2, Rt: 6, Immed: 20466
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000000000001110111101001000
+Rs: 0, Rt: 0, Immed: 61256
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111000101100100011101101000
+Rs: 24, Rt: 22, Immed: 18280
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001101110100101111100010111
+Rs: 13, Rt: 26, Immed: 24343
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101111100001100110010110111
+Rs: 15, Rt: 16, Immed: 52407
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000010000111111101101011010
+Rs: 2, Rt: 3, Immed: 64346
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101001010110111000110011001
+Rs: 9, Rt: 11, Immed: 29081
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001000111001011100111010000
+Rs: 8, Rt: 28, Immed: 47568
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101111100110100000001111000
+Rs: 15, Rt: 19, Immed: 16504
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011100011110111011010011010101
+Rs: 3, Rt: 27, Immed: 46293
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011110111001000111010111010
+Rs: 30, Rt: 28, Immed: 36538
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111111101110011111101111111
+Rs: 31, Rt: 23, Immed: 16255
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101010001111101101101110000
+Rs: 10, Rt: 7, Immed: 56176
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100110011000110011100100011
+Rs: 6, Rt: 12, Immed: 26403
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011101101111100111010110000
+Rs: 29, Rt: 23, Immed: 52912
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011000111000101100010010101
+Rs: 24, Rt: 28, Immed: 22677
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100111100111001010100101000
+Rs: 7, Rt: 19, Immed: 38184
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100000000100101010010111010
+Rs: 0, Rt: 2, Immed: 21690
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001000010110100000101000101
+Rs: 8, Rt: 11, Immed: 16709
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110010001001001100111110000
+Rs: 18, Rt: 4, Immed: 39408
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111110111010010000111101111
+Rs: 30, Rt: 29, Immed: 8687
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110111011010100001111110101
+Rs: 23, Rt: 13, Immed: 17397
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111111000101111011011101000
+Rs: 31, Rt: 2, Immed: 63208
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000110100100101101100100010010
+Rs: 20, Rt: 18, Immed: 55570
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101110010100110010101100001
+Rs: 14, Rt: 10, Immed: 25953
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001001001010110000000000101
+Rs: 9, Rt: 5, Immed: 24581
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101000000010110010101010010
+Rs: 8, Rt: 1, Immed: 25938
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001011111010111110011111111
+Rs: 11, Rt: 29, Immed: 31999
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110111100100110101001101011
+Rs: 23, Rt: 18, Immed: 27243
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001011011100011011100011100
+Rs: 11, Rt: 14, Immed: 14108
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001111001000000011010111101
+Rs: 15, Rt: 4, Immed: 1725
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100000000001011010101001011
+Rs: 0, Rt: 0, Immed: 46411
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101011011100100101000001100
+Rs: 11, Rt: 14, Immed: 18956
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011100110001001010001010111010
+Rs: 6, Rt: 4, Immed: 41658
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010001110010011001001111100
+Rs: 17, Rt: 25, Immed: 12924
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111000000010100110101000100
+Rs: 24, Rt: 1, Immed: 19780
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011100100101101100010011001
+Rs: 28, Rt: 18, Immed: 55449
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011001001010111100001100110
+Rs: 25, Rt: 5, Immed: 30822
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110110111011101001111011010
+Rs: 22, Rt: 29, Immed: 54234
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000001000100101110010011100
+Rs: 1, Rt: 2, Immed: 23708
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011111111011001111011010101000
+Rs: 31, Rt: 12, Immed: 63144
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101110010011111000001111000
+Rs: 14, Rt: 9, Immed: 61560
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011001110000010011010110011
+Rs: 25, Rt: 24, Immed: 9907
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111010111101000001000110111
+Rs: 26, Rt: 30, Immed: 33335
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001000011100101100101110001
+Rs: 8, Rt: 14, Immed: 22897
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011101110111110111100110110
+Rs: 29, Rt: 27, Immed: 61238
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110110010111100110111010000
+Rs: 22, Rt: 11, Immed: 52688
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000001000001010101000000011
+Rs: 1, Rt: 0, Immed: 43523
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101100101111001001000001101
+Rs: 12, Rt: 23, Immed: 37389
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111010011111110100011000010
+Rs: 26, Rt: 15, Immed: 59586
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111110101001000100110011011
+Rs: 30, Rt: 20, Immed: 35227
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110111111110010010000000011
+Rs: 23, Rt: 31, Immed: 9219
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111001010101010100100010001
+Rs: 25, Rt: 10, Immed: 43281
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110010000100000010010011110
+Rs: 18, Rt: 2, Immed: 1182
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111100010010101101110110101
+Rs: 28, Rt: 9, Immed: 23477
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111011111101001101010001111
+Rs: 27, Rt: 30, Immed: 39567
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110111001101111110001101100
+Rs: 23, Rt: 6, Immed: 64620
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010100011110010011011001110
+Rs: 20, Rt: 15, Immed: 9934
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100100010010000110111001011
+Rs: 4, Rt: 9, Immed: 3531
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101010010000110010001100000
+Rs: 10, Rt: 8, Immed: 25696
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000101111110000011101101001
+Rs: 5, Rt: 31, Immed: 1897
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010111000101010100011001111
+Rs: 23, Rt: 2, Immed: 43215
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111110011011101101001111010
+Rs: 30, Rt: 13, Immed: 55930
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100000101010001101010101101
+Rs: 0, Rt: 21, Immed: 6829
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100101000111001110000101000010
+Rs: 8, Rt: 28, Immed: 57666
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101110000101100100001000110
+Rs: 14, Rt: 2, Immed: 51270
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100011101010001100001000110011
+Rs: 29, Rt: 8, Immed: 49715
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010011100101010010011000101
+Rs: 19, Rt: 18, Immed: 42181
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001011100011101010101111101010
+Rs: 28, Rt: 14, Immed: 44010
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110110100000100110011011001
+Rs: 22, Rt: 16, Immed: 19673
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101100011101110011001000100
+Rs: 12, Rt: 14, Immed: 58948
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111001110000101000001011000
+Rs: 25, Rt: 24, Immed: 20568
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010011011010000100100001000
+Rs: 19, Rt: 13, Immed: 2312
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111001101101110000001001011
+Rs: 25, Rt: 22, Immed: 57419
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111111000111101111100100111
+Rs: 31, Rt: 3, Immed: 57127
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110010111111000111101110111
+Rs: 18, Rt: 31, Immed: 36727
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111110100110000011001010101
+Rs: 30, Rt: 19, Immed: 1621
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000010000010110110111111111111
+Rs: 16, Rt: 11, Immed: 28671
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001010100110111011111101111110
+Rs: 20, Rt: 27, Immed: 49022
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100000111110100000011010111
+Rs: 0, Rt: 31, Immed: 16599
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110110010011001001001011011
+Rs: 22, Rt: 9, Immed: 37467
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001001001101011110001100101
+Rs: 9, Rt: 6, Immed: 48229
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110110010011011000100110000
+Rs: 22, Rt: 9, Immed: 45360
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001111110111110110000100111101
+Rs: 30, Rt: 31, Immed: 24893
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110100011100001111011110100
+Rs: 20, Rt: 14, Immed: 7924
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111110111100010110000000111
+Rs: 30, Rt: 30, Immed: 11271
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100101000000111001101101110
+Rs: 5, Rt: 0, Immed: 29550
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000100000101001001011100001010
+Rs: 0, Rt: 20, Immed: 38666
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101110001100011111011100001
+Rs: 14, Rt: 6, Immed: 16097
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100110001011010111100100110100
+Rs: 17, Rt: 13, Immed: 31028
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011101010000010111101000110011
+Rs: 10, Rt: 1, Immed: 31283
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010100000100001100100100111101
+Rs: 0, Rt: 16, Immed: 51517
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000001001111100110000011100
+Rs: 1, Rt: 7, Immed: 52252
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010000001000010001000100010
+Rs: 16, Rt: 4, Immed: 8738
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011110000111010001001011001101
+Rs: 16, Rt: 29, Immed: 4813
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001001010110100011101111011001
+Rs: 10, Rt: 26, Immed: 15321
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111111111000100111111001000
+Rs: 31, Rt: 28, Immed: 20424
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011000110011100011010110101
+Rs: 24, Rt: 25, Immed: 50869
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001101011000011001010001101000
+Rs: 11, Rt: 1, Immed: 37992
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100001101001010111110000111000
+Rs: 13, Rt: 5, Immed: 31800
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001110110011000000101101100001
+Rs: 22, Rt: 12, Immed: 2913
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110101101010110111111110010
+Rs: 21, Rt: 21, Immed: 28658
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000011010100111000110000101101
+Rs: 26, Rt: 19, Immed: 35885
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001110110111100011000010111001
+Rs: 22, Rt: 30, Immed: 12473
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000010011100010010011000001
+Rs: 2, Rt: 14, Immed: 9409
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011000101100001001101010000
+Rs: 24, Rt: 22, Immed: 4944
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010110011011111110101100011101
+Rs: 19, Rt: 15, Immed: 60189
+JType : Type: ITypeOpcode: ITypeOpcodes.ADD_IMM, Machine code: 00001000101011100001010100111110
+Rs: 5, Rt: 14, Immed: 5438
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010001011000000110010110001000
+Rs: 11, Rt: 0, Immed: 25992
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010011111000000101110011010001
+Rs: 31, Rt: 0, Immed: 23761
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010011010110000001110000000
+Rs: 19, Rt: 11, Immed: 896
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010111011011111100101011001010
+Rs: 27, Rt: 15, Immed: 51914
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000111101111111111011010000011
+Rs: 29, Rt: 31, Immed: 63107
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001110101100111101110001100
+Rs: 14, Rt: 22, Immed: 31628
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000100100011011110111111010
+Rs: 4, Rt: 17, Immed: 48634
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_BYTE, Machine code: 01000101001101010110011000111111
+Rs: 9, Rt: 21, Immed: 26175
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000111011011001110100011001
+Rs: 7, Rt: 13, Immed: 40217
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010111000111000001110000110
+Rs: 23, Rt: 3, Immed: 33670
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001101010010011100001000100001
+Rs: 10, Rt: 9, Immed: 49697
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100111000100011101101001010111
+Rs: 24, Rt: 17, Immed: 55895
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111011010001110011111100010
+Rs: 27, Rt: 8, Immed: 59362
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000001001100111100101001101100
+Rs: 9, Rt: 19, Immed: 51820
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_EQUAL, Machine code: 10001100010100001010001011110001
+Rs: 2, Rt: 16, Immed: 41713
+JType : Type: ITypeOpcode: ITypeOpcodes.OR_IMM, Machine code: 00010101010101111011000100100110
+Rs: 10, Rt: 23, Immed: 45350
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000111101111111010101001011
+Rs: 7, Rt: 23, Immed: 62795
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010000110000110111100101000000
+Rs: 6, Rt: 3, Immed: 31040
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001100011000001101110110010110
+Rs: 3, Rt: 0, Immed: 56726
+JType : Type: ITypeOpcode: ITypeOpcodes.SUB_IMM, Machine code: 00001111110101010111110010100110
+Rs: 30, Rt: 21, Immed: 31910
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010001001000100100110011111
+Rs: 17, Rt: 4, Immed: 18847
+JType : Type: ITypeOpcode: ITypeOpcodes.SET_LESS_THAN_IMM, Machine code: 00011111000000001000010010111100
+Rs: 24, Rt: 0, Immed: 33980
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010100110100110010110000001
+Rs: 20, Rt: 26, Immed: 25985
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011101000100101100110110010010
+Rs: 8, Rt: 18, Immed: 52626
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100000101001110111011000100110
+Rs: 5, Rt: 7, Immed: 30246
+JType : Type: ITypeOpcode: ITypeOpcodes.BRANCH_NOT_EQUAL, Machine code: 10011110101101000001100001110000
+Rs: 21, Rt: 20, Immed: 6256
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_WORD, Machine code: 00100010001010110111010101101100
+Rs: 17, Rt: 11, Immed: 30060
+JType : Type: ITypeOpcode: ITypeOpcodes.LOAD_BYTE, Machine code: 00100100111101110000011010001001
+Rs: 7, Rt: 23, Immed: 1673
+JType : Type: ITypeOpcode: ITypeOpcodes.AND_IMM, Machine code: 00010010101101011000001111111110
+Rs: 21, Rt: 21, Immed: 33790
+JType : Type: ITypeOpcode: ITypeOpcodes.STORE_WORD, Machine code: 01000000011011001001010011111010
+Rs: 3, Rt: 12, Immed: 38138
