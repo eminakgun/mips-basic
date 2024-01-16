@@ -12,22 +12,30 @@ module control_unit (
     input [5:0] opcode
 );
 
-localparam [5:0] ADD_IMM = 6'b000010;
-localparam [5:0] SUB_IMM = 6'b000011;
-localparam [5:0] AND_IMM = 6'b000100;
-localparam [5:0] OR_IMM = 6'b000101;
-localparam [5:0] LOAD_WORD = 6'b001000;
-localparam [5:0] STORE_WORD = 6'b010000;
-localparam [5:0] LOAD_BYTE = 6'b001001;
-localparam [5:0] STORE_BYTE = 6'b010001;
-localparam [5:0] SET_LESS_THAN_IMM = 6'b000111;
-localparam [5:0] BRANCH_EQUAL = 6'b100011;
-localparam [5:0] BRANCH_NOT_EQUAL = 6'b100111;
-localparam [5:0] JUMP = 6'b111000;
-localparam [5:0] JUMP_AND_LINK = 6'b111001;
+localparam ADD_IMM = 6'b000010;
+localparam SUB_IMM = 6'b000011;
+localparam AND_IMM = 6'b000100;
+localparam OR_IMM = 6'b000101;
+localparam LOAD_WORD = 6'b001000;
+localparam STORE_WORD = 6'b010000;
+localparam LOAD_BYTE = 6'b001001;
+localparam STORE_BYTE = 6'b010001;
+localparam SET_LESS_THAN_IMM = 6'b000111;
+localparam BRANCH_EQUAL = 6'b100011;
+localparam BRANCH_NOT_EQUAL = 6'b100111;
+localparam JUMP = 6'b111000;
+localparam JUMP_AND_LINK = 6'b111001;
 
 
 always @(opcode) begin
+    branch   = 1'b0;
+    jump     = 1'b0;
+    regDst   = 1'b0;
+    regWrite = 1'b0;
+    memRead  = 1'b0;
+    memWrite = 1'b0;
+    ALUop    = `ALUop_AND;
+    ALUsrc   = 1'b0;
     case (opcode)
         6'b100000: begin // Move
             // TODO
