@@ -108,6 +108,8 @@ always @(opcode) begin
             regWrite = 1'b0;
             memRead  = 1'b0;
             memWrite = 1'b0;
+            ALUop    = `ALUop_AND;
+            ALUsrc   = 1'b0;
         end
     endcase
 end
