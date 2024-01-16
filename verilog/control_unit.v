@@ -28,13 +28,6 @@ localparam [5:0] JUMP_AND_LINK = 6'b111001;
 
 
 always @(opcode) begin
-    // default assignments
-    branch   = 1'b0;
-    jump     = 0;
-    regDst   = 1'b0;
-    regWrite = 1'b0;
-    memRead  = 1'b0;
-    memWrite = 1'b0;
     case (opcode)
         6'b100000: begin // Move
             // TODO
@@ -107,6 +100,14 @@ always @(opcode) begin
             // $ra = PC + 4; go to address 1000
             regWrite = 1'b1;
             jump = 1;
+        end
+        default: begin
+            branch   = 1'b0;
+            jump     = 0;
+            regDst   = 1'b0;
+            regWrite = 1'b0;
+            memRead  = 1'b0;
+            memWrite = 1'b0;
         end
     endcase
 end
