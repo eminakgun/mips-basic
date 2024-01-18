@@ -113,8 +113,9 @@ assign read_reg2 = instruction[20:16];
 // Write register/data logic
 // TODO use 4x1 mux
 assign write_reg = jal == 1'b1 ? 5'd31 // Ra adress
-                               : regDst == 1'b1 ? instruction[15:11] 
-                                                : instruction[20:16];
+                               : move ? instruction[25:21]
+                                      : regDst == 1'b1 ? instruction[15:11] 
+                                                       : instruction[20:16];
 register_block reg_block_i(read_data1, read_data2, write_data, 
                             read_reg1, read_reg2, write_reg, reg_block_we);
 
@@ -145,7 +146,7 @@ alu_control alu_ctrl_i(alu_ctr, function_code, ALUop);
 memory_block mem_block_i(read_data_mem, alu_result[17:0], read_data2, memRead, memWrite);
 
 
-assign write_data = move ? read_data1 
+assign write_data = move ? read_data2 
                          : jal == 1'b1 ? pc_plus_4 
                                        : memRead == 1'b1 ? read_data_mem
                                                          : alu_result;
