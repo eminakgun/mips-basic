@@ -39,7 +39,7 @@ always @(opcode) begin
     case (opcode)
         6'b100000: begin // Move
             // TODO
-            regDst   = 1'b0; // Select Rt as write register
+            //regDst   = 1'b0; // Select Rs as write register
             regWrite = 1'b1;
         end
         6'b000000: begin // R-type
@@ -94,12 +94,12 @@ always @(opcode) begin
         BRANCH_EQUAL: begin
             branch = 1;
             ALUop = `ALUop_SUB;
-            ALUsrc   = 1'b0;    // Use Rt for ALU's 2nd operand
+            ALUsrc   = 1'b1;
         end
         BRANCH_NOT_EQUAL: begin
             branch = 1;
             ALUop = `ALUop_SUB;
-            ALUsrc   = 1'b0;    // Use Rt for ALU's 2nd operand
+            ALUsrc   = 1'b1;
         end
         JUMP: begin
             jump = 1;
