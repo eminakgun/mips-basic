@@ -10,6 +10,7 @@ module alu_control (output reg [2:0] alu_ctr,
     localparam [2:0] ADD = 3'b101;
     localparam [2:0] SUB = 3'b110;
         
+    // TODO Convert into Structural Verilog
     always @(*) begin
         alu_ctr = AND; // default value
         if (ALUop == `ALUop_RTYPE) begin

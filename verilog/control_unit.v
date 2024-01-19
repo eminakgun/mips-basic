@@ -27,6 +27,7 @@ localparam JUMP = 6'b111000;
 localparam JUMP_AND_LINK = 6'b111001;
 
 
+// TODO Convert into Structural Verilog
 always @(opcode) begin
     branch   = 1'b0;
     jump     = 1'b0;

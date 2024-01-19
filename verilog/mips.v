@@ -45,7 +45,17 @@ wire [31:0] read_data_mem;
 wire [17:0] address;
 
 wire move;
-assign move = (opcode == 6'b100000);
+//assign move = (opcode == 6'b100000);
+wire [4:0] move_opcode;
+not move_opcode_i0(move_opcode[0], opcode[0]);
+not move_opcode_i1(move_opcode[1], opcode[1]);
+not move_opcode_i2(move_opcode[2], opcode[2]);
+not move_opcode_i3(move_opcode[3], opcode[3]);
+not move_opcode_i4(move_opcode[4], opcode[4]);
+and move_final_i(move, move_opcode[0], opcode[5], 
+                       move_opcode[1], move_opcode[2], 
+                       move_opcode[3], move_opcode[4]);
+
 
 // Logic Blocks
 
@@ -55,12 +65,12 @@ assign move = (opcode == 6'b100000);
 // 1- PC + 4
 wire [31:0] pc_plus_4;
 //assign pc_plus_4 = pc + 4;
-alu_cla alu_pc_plus_4(,, pc, 4, 5,, pc_plus_4,);
+alu_cla alu_pc_plus_4(,, pc, 4, 3'd5,, pc_plus_4,);
 
 // 2- Shift left Sign extended immed value and add PC
 wire [31:0] branch_addr;
 //assign branch_addr = pc_plus_4 + sign_ext_imm;
-alu_cla alu_branch_addr(,, pc_plus_4, sign_ext_imm, 5,, branch_addr,);
+alu_cla alu_branch_addr(,, pc_plus_4, sign_ext_imm, 3'd5,, branch_addr,);
 
 // 3- Selection logic that connects to PC register
 //    based on Branch bit and Zero bit outputs
@@ -181,11 +191,11 @@ mux_2_1 m21_ja29(read_data1[29],            1'b0, jump_cu, jump_address[29]);
 mux_2_1 m21_ja30(read_data1[30],            1'b0, jump_cu, jump_address[30]);
 mux_2_1 m21_ja31(read_data1[31],            1'b0, jump_cu, jump_address[31]);
 
+// Jump & PC
+wire jump_final;
 // assign jump_final = jr ? 1'b1 : jump_cu;
 or jump_final_i(jump_final, jr, jump_cu);
 
-
-wire jump_final;
 wire [31:0] pc_final;
 // assign pc_final = jump_final ? jump_address
 //                              : branch_select ? branch_addr : pc_plus_4;
@@ -204,10 +214,9 @@ end
 instruction_block inst_block_i(instruction, pc);
 
 // Slice instruction logic
-// TODO Convert into structural
 // assign opcode = instruction[31:26];
-//assign read_reg1 = instruction[25:21];
-//assign read_reg2 = instruction[20:16];
+// assign read_reg1 = instruction[25:21];
+// assign read_reg2 = instruction[20:16];
 
 buf opcode_b0(opcode[0], instruction[26]);
 buf opcode_b1(opcode[1], instruction[27]);
