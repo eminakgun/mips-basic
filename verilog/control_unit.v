@@ -94,12 +94,12 @@ always @(opcode) begin
         BRANCH_EQUAL: begin
             branch = 1;
             ALUop = `ALUop_SUB;
-            ALUsrc   = 1'b1;
+            ALUsrc   = 1'b0;
         end
         BRANCH_NOT_EQUAL: begin
             branch = 1;
             ALUop = `ALUop_SUB;
-            ALUsrc   = 1'b1;
+            ALUsrc   = 1'b0;
         end
         JUMP: begin
             jump = 1;
