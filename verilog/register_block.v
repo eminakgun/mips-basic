@@ -21,7 +21,7 @@ always @(read_reg2) begin
 end
 
 always @(regWrite, write_reg, write_data) begin
-    if (regWrite) begin
+    if (regWrite && write_reg != 0) begin
         registers[write_reg] = write_data;
         $writememb("memory_files/registers.mem", registers);
     end
