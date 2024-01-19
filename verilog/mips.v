@@ -54,11 +54,13 @@ assign move = (opcode == 6'b100000);
 
 // 1- PC + 4
 wire [31:0] pc_plus_4;
-assign pc_plus_4 = pc + 4;
+//assign pc_plus_4 = pc + 4;
+alu_cla alu_pc_plus_4(,, pc, 4, 5,, pc_plus_4,);
 
 // 2- Shift left Sign extended immed value and add PC
 wire [31:0] branch_addr;
-assign branch_addr = pc_plus_4 + sign_ext_imm;
+//assign branch_addr = pc_plus_4 + sign_ext_imm;
+alu_cla alu_branch_addr(,, pc_plus_4, sign_ext_imm, 5,, branch_addr,);
 
 // 3- Selection logic that connects to PC register
 //    based on Branch bit and Zero bit outputs
